@@ -1,0 +1,1 @@
+https://grokipedia.com/page/nekor
