@@ -1,0 +1,7 @@
+- [Tarif al-Matghari](https://en.wikipedia.org/wiki/Tarif_al-Matghari)
+- [Ṣāliḥ ibn Tarīf](https://en.wikipedia.org/wiki/Salih_ibn_Tarif) (744-?), who declared himself prophet[[9]](https://en.wikipedia.org/wiki/Barghawata#cite_note-9) in 744 and went away at the age of 47, promising to return.
+- Ilyas ibn Salih (?792-842),[[10]](https://en.wikipedia.org/wiki/Barghawata#cite_note-10) who is said to have professed Islām publicly but Ṣāliḥ's religion secretly, and died in the 50th year of his reign.
+- Yunus ibn Ilyas (?842-888), who made Ṣāliḥ's religion official and fought those who would not convert (killing 7770 people, according to [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun)'s sources, some at a place called Tamlukeft). Curiously enough, he is also said to have performed the [Hajj](https://en.wikipedia.org/wiki/Hajj). He died in the 44th year of his reign.
+- Abu-Ghufayl Muhammad (?888-917), who may also have been called a prophet (according to a poem [Ibn-Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun) cites) and who had 44 wives and more sons. He died in the 29th year of his reign.
+- Abu al-Ansar Abdullah (?917-961), buried at Ameslakht. He died in the 44th year of his reign.
+- Abu Mansur Isa (?961-?), who was 22 when he became king.

@@ -1,3 +1,5 @@
 .obsidian
 .smart-env
 .smtcmp_json_db
+workspace/.smtcmp_vector_db.tar.gz
+Vault/.smtcmp_vector_db.tar.gz
