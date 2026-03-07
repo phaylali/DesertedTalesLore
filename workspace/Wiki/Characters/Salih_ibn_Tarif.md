@@ -16,18 +16,18 @@ last_updated: "2026-03-04"
 # Salih ibn Tarif
 
 ## Overview
-Salih ibn Tarif (c. 720 – c. 793) was the prophet-king of the Barghawata who transformed his father's tribal confederation into a theocratic state. Author of the **Berber Quran**—an 80-surah scripture in Tamazight—he claimed the prophetic mantle to bring Islam closer to the Amazigh people and solidify their commitment to monotheism through culturally resonant practice, rather than to pursue personal glory or power.
+Salih ibn Tarif (c. 724 – c. 791) was the prophet-king of the Barghawata who transformed his father's tribal confederation into a theocratic state. Author of the **Berber Quran**—an 80-surah scripture in Tamazight—he claimed the prophetic mantle to bring Islam closer to the Amazigh people and solidify their commitment to monotheism through culturally resonant practice, rather than to pursue personal glory or power.
 
 ---
 
 ## Dates & Vital Statistics
 
-| Event | Date | Notes |
-|-------|------|-------|
-| **Born** | c. 720 | Tamesna region; son of Tarif al-Matghari |
-| **Prophetic Declaration** | c. 749 | Age ~29; claimed Mahdist authority |
-| **Disappeared** | c. 793 | Age 47; promised eschatological return |
-| **Reign** | c. 744/749 – c. 793 | ~44–49 years as prophet-king |
+| Event                     | Date                | Notes                                              |
+| ------------------------- | ------------------- | -------------------------------------------------- |
+| **Born**                  | c. 724              | Tamesna region; son of Tarif al-Matghari           |
+| **Prophetic Declaration** | c. 749              | Age ~25; claimed Mahdist authority                 |
+| **Disappeared**           | c. 791              | Age 47 of the rule; promised eschatological return |
+| **Reign**                 | c. 744/749 – c. 793 | ~44–49 years as prophet-king                       |
 
 **Timeline Resolution:**  
 Salih succeeded his father c. 744 as political leader, formally declaring prophethood c. 749 after consolidation. This timeline allows Tarif to have been present at Salih's birth (720) and for a proper succession period.
