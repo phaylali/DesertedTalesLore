@@ -21,7 +21,7 @@ academic_consensus: "Reliably attested; longest reign; diplomatic period; buried
 
 ## Overview
 
-Abu al-Ansar Abdullah (c. 873 – c. 961 CE) was the fifth ruler of the Barghawata Confederacy, reigning from 917 to 961 CE—a spectacular 44-year reign that represents the zenith of Barghawata diplomatic engagement and institutional stability. He inherited a confederation that had been revolutionized by his great-grandfather Yunus and stabilized by his father Abu Ghufail, and he transformed it into a mature political entity capable of engaging with major regional powers. His reign marked the **Diplomatic Period** of Barghawata history: an era of relative peace, external trade, and sophisticated engagement with the Umayyad Emirate of Córdoba and other Islamic powers. Sources note he was buried at **Ameslakht**, a site that has become central to Barghawata cultural memory. His remarkable 44-year rule was the longest of any Barghawata king, and his diplomatic success allowed the confederation to flourish economically while maintaining its distinctive religious identity.
+Abu al-Ansar Abdullah (c. 873 – c. 961 CE) was the fifth ruler of the Barghawata Confederacy, reigning from 917 to 961 CE—a spectacular 44-year reign that represents the zenith of Barghawata diplomatic engagement and institutional stability. He inherited a confederation that had been revolutionized by his great-grandfather Yunus and stabilized by his father Abu Ghufair, and he transformed it into a mature political entity capable of engaging with major regional powers. His reign marked the **Diplomatic Period** of Barghawata history: an era of relative peace, external trade, and sophisticated engagement with the Umayyad Emirate of Córdoba and other Islamic powers. Sources note he was buried at **Ameslakht**, a site that has become central to Barghawata cultural memory. His remarkable 44-year rule was the longest of any Barghawata king, and his diplomatic success allowed the confederation to flourish economically while maintaining its distinctive religious identity.
 
 ---
 
@@ -29,10 +29,10 @@ Abu al-Ansar Abdullah (c. 873 – c. 961 CE) was the fifth ruler of the Barghawa
 
 ### Full Name Breakdown
 
-| Component | Arabic | Meaning | Notes |
-|-----------|--------|---------|-------|
+| Component        | Arabic      | Meaning                 | Notes                                                          |
+| ---------------- | ----------- | ----------------------- | -------------------------------------------------------------- |
 | **Abu al-Ansar** | أبو الأنصار | "Father of the Helpers" | Kunya (teknonym); indicates his father was known as "al-Ansar" |
-| **Abdullah** | عبد الله | "Servant of God" | Given name; common Islamic theophoric |
+| **Abdullah**     | عبد الله    | "Servant of God"        | Given name; common Islamic theophoric                          |
 
 ### Name Variations
 
@@ -41,19 +41,19 @@ Abu al-Ansar Abdullah (c. 873 – c. 961 CE) was the fifth ruler of the Barghawa
 
 ### Name Significance
 
-The kunya **Abu al-Ansar** ("Father of the Helpers") suggests his father's role as a supporter or helper of the Barghawata cause—possibly during Yunus's revolutionary period or Abu Ghufail's consolidation.
+The kunya **Abu al-Ansar** ("Father of the Helpers") suggests his father's role as a supporter or helper of the Barghawata cause—possibly during Yunus's revolutionary period or Abu Ghufair's consolidation.
 
 ---
 
 ## Dates & Vital Statistics
 
-| Event | Date | CE | Notes |
-|-------|------|-----|-------|
-| **Born** | c. 873 | — | Tamesna region; son of Abu Ghufail |
-| **Succeeded Father** | 917 | — | Inherited upon father's death |
-| **Died** | c. 961 | — | After 44-year reign |
-| **Burial** | c. 961 | — | Ameslakht |
-| **Reign** | 917–961 | — | 44 years; longest Barghawata reign |
+| Event                | Date    | CE  | Notes                              |
+| -------------------- | ------- | --- | ---------------------------------- |
+| **Born**             | c. 873  | —   | Tamesna region; son of Abu Ghufair |
+| **Succeeded Father** | 917     | —   | Inherited upon father's death      |
+| **Died**             | c. 961  | —   | After 44-year reign                |
+| **Burial**           | c. 961  | —   | Ameslakht                          |
+| **Reign**            | 917–961 | —   | 44 years; longest Barghawata reign |
 
 ---
 
@@ -61,7 +61,7 @@ The kunya **Abu al-Ansar** ("Father of the Helpers") suggests his father's role 
 
 ### Birth & Early Life
 
-Abu al-Ansar Abdullah was born around **873 CE** in the Tamesna region, the son of **Abu Ghufail**, the fourth ruler who had consolidated the Barghawata after his father Yunus's revolutionary reign. His childhood and early adulthood occurred during the crucial transition period when the Barghawata were moving from revolutionary faith to established polity.
+Abu al-Ansar Abdullah was born around **873 CE** in the Tamesna region, the son of **Abu Ghufair**, the fourth ruler who had consolidated the Barghawata after his father Yunus's revolutionary reign. His childhood and early adulthood occurred during the crucial transition period when the Barghawata were moving from revolutionary faith to established polity.
 
 As the son of the consolidator, Abu al-Ansar grew up in an environment where:
 
@@ -72,33 +72,33 @@ As the son of the consolidator, Abu al-Ansar grew up in an environment where:
 
 ### Family Relations
 
-| Relation | Name | Status | Notes |
-|----------|------|--------|-------|
-| **Father** | **Abu Ghufail** | Deceased 917 | Fourth ruler; consolidator |
-| **Son & Successor** | **Abu Mansur Isa** | Living | Sixth ruler; continued dynasty |
-| **Grandfather** | **Yunus ibn Ilyas** | Deceased 888 | Third ruler; revolutionary |
+| Relation              | Name                | Status       | Notes                            |
+| --------------------- | ------------------- | ------------ | -------------------------------- |
+| **Father**            | **Abu Ghufair**     | Deceased 917 | Fourth ruler; consolidator       |
+| **Son & Successor**   | **Abu Mansur Isa**  | Living       | Sixth ruler; continued dynasty   |
+| **Grandfather**       | **Yunus ibn Ilyas** | Deceased 888 | Third ruler; revolutionary       |
 | **Great-Grandfather** | **Ilyas ibn Salih** | Deceased 842 | Second ruler; maintained secrecy |
 
 ### Ethnicity & Identity
 
-| Attribute | Details |
-|-----------|---------|
-| **Primary Ethnicity** | Masmuda Berber |
-| **Language(s)** | Tamazight (native), Arabic (learned) |
-| **Cultural Affiliation** | Atlantic Coast Berber (Tamesna) |
-| **Religious Affiliation** | Barghawata faith (established) |
+| Attribute                 | Details                              |
+| ------------------------- | ------------------------------------ |
+| **Primary Ethnicity**     | Masmuda Berber                       |
+| **Language(s)**           | Tamazight (native), Arabic (learned) |
+| **Cultural Affiliation**  | Atlantic Coast Berber (Tamesna)      |
+| **Religious Affiliation** | Barghawata faith (established)       |
 
 ---
 
 ## Chronological Timeline
 
-| Year | CE | Event | Significance |
-|------|-----|-------|--------------|
-| c. | 873 | Birth of Abu al-Ansar | Son of Abu Ghufail |
-| | 917 | Succeeded father as ruler | Inherited stable confederation |
-| | 917–961 | Reign as king | 44-year diplomatic period |
-| | 963 | Embassy to Córdoba | Sent during successor's reign (Abu Mansur Isa) |
-| | c. 961 | Death | Passed throne to Abu Mansur Isa |
+| Year | CE      | Event                     | Significance                                   |
+| ---- | ------- | ------------------------- | ---------------------------------------------- |
+| c.   | 873     | Birth of Abu al-Ansar     | Son of Abu Ghufair                             |
+|      | 917     | Succeeded father as ruler | Inherited stable confederation                 |
+|      | 917–961 | Reign as king             | 44-year diplomatic period                      |
+|      | 963     | Embassy to Córdoba        | Sent during successor's reign (Abu Mansur Isa) |
+|      | c. 961  | Death                     | Passed throne to Abu Mansur Isa                |
 
 ---
 
@@ -110,30 +110,30 @@ As the son of the consolidator, Abu al-Ansar grew up in an environment where:
 
 **Major Contemporary Events:**
 
-| Event | Date | Relationship |
-|-------|------|--------------|
-| Umayyad Emirate of Córdoba peaks | 10th century | Primary diplomatic partner/rival |
-| Fatimid Caliphate established | 909 | Eastern rival to authority |
-| Caliphal period begins in Córdoba | 929 | Abd al-Rahman III takes title |
+| Event                             | Date         | Relationship                     |
+| --------------------------------- | ------------ | -------------------------------- |
+| Umayyad Emirate of Córdoba peaks  | 10th century | Primary diplomatic partner/rival |
+| Fatimid Caliphate established     | 909          | Eastern rival to authority       |
+| Caliphal period begins in Córdoba | 929          | Abd al-Rahman III takes title    |
 
 ### Contemporary Figures
 
-| Figure | Relationship | Nature |
-|--------|-------------|--------|
-| **Abu Ghufail** | Father | Previous ruler |
-| **Abu Mansur Isa** | Son | Succeeded |
-| **Abd al-Rahman III** | Contemporary | Umayyad Emir/Caliph (912–961) |
-| **Al-Hakam II** | Overlap | Umayyad Caliph (961–976); embassy sent during his reign |
+| Figure                | Relationship | Nature                                                  |
+| --------------------- | ------------ | ------------------------------------------------------- |
+| **Abu Ghufair**       | Father       | Previous ruler                                          |
+| **Abu Mansur Isa**    | Son          | Succeeded                                               |
+| **Abd al-Rahman III** | Contemporary | Umayyad Emir/Caliph (912–961)                           |
+| **Al-Hakam II**       | Overlap      | Umayyad Caliph (961–976); embassy sent during his reign |
 
 ### Geographic Context
 
 **Primary Regions:**
 
-| Region | Role | Period |
-|--------|------|--------|
-| **Tamesna** | Power base | Lifelong |
+| Region             | Role               | Period     |
+| ------------------ | ------------------ | ---------- |
+| **Tamesna**        | Power base         | Lifelong   |
 | **Atlantic Coast** | Territorial extent | Maintained |
-| **Ameslakht** | burial site | Memorial |
+| **Ameslakht**      | burial site        | Memorial   |
 
 ---
 
@@ -144,7 +144,7 @@ As the son of the consolidator, Abu al-Ansar grew up in an environment where:
 When Abu al-Ansar Abdullah succeeded his father in **917 CE**, he inherited a confederation that had been transformed by three generations:
 
 - **Yunus** had created the faith
-- **Abu Ghufail** had stabilized it
+- **Abu Ghufair** had stabilized it
 - **Abu al-Ansar** would elevate it
 
 His 44-year reign would become the **longest in Barghawata history** and marked the confederation's diplomatic golden age.
@@ -187,11 +187,11 @@ Abu al-Ansar Abdullah died around **961 CE**, having ruled for an extraordinary 
 
 ### Primary Position
 
-| Position | Faction | Period | Notes |
-|----------|---------|--------|-------|
-| **King** | Barghawata Confederacy | 917–961 | Fifth ruler |
-| **Diplomatic Leader** | External relations | 917–961 | Peak engagement |
-| **Religious Authority** | Barghawata faith | 917–961 | Maintained doctrine |
+| Position                | Faction                | Period  | Notes               |
+| ----------------------- | ---------------------- | ------- | ------------------- |
+| **King**                | Barghawata Confederacy | 917–961 | Fifth ruler         |
+| **Diplomatic Leader**   | External relations     | 917–961 | Peak engagement     |
+| **Religious Authority** | Barghawata faith       | 917–961 | Maintained doctrine |
 
 ### Governance Philosophy
 
@@ -240,7 +240,7 @@ Scholars see Abu al-Ansar as proof that the Barghawata had successfully transiti
 
 ### Characters
 
-- [[Wiki/Characters/Abu_Ghufail]] — Father; consolidator
+- [[Wiki/Characters/Abu_Ghufair]] — Father; consolidator
 - [[Wiki/Characters/Yunus_ibn_Ilyas]] — Grandfather; revolutionary
 - [[Wiki/Characters/Ilyas_ibn_Salih]] — Great-grandfather; maintained secrecy
 - [[Wiki/Characters/Salih_ibn_Tarif]] — Great-great-grandfather; founder
@@ -275,12 +275,12 @@ Abu al-Ansar represents the **diplomat king**—the ruler who navigates complex 
 
 ### Media Potential
 
-| Medium | Suitability | Notes |
-|--------|-------------|-------|
-| **Video Game** | High | Diplomatic mechanics; trade networks; embassy quests |
-| **Film/Television** | Medium | Political intrigue; foreign relations |
-| **Novel/Book** | High | Character study of ruling through diplomacy |
-| **Documentary** | High | Diplomatic history; peak of Barghawata power |
+| Medium              | Suitability | Notes                                                |
+| ------------------- | ----------- | ---------------------------------------------------- |
+| **Video Game**      | High        | Diplomatic mechanics; trade networks; embassy quests |
+| **Film/Television** | Medium      | Political intrigue; foreign relations                |
+| **Novel/Book**      | High        | Character study of ruling through diplomacy          |
+| **Documentary**     | High        | Diplomatic history; peak of Barghawata power         |
 
 ### Archetype
 
@@ -299,8 +299,8 @@ Abu al-Ansar represents the **diplomat king**—the ruler who navigates complex 
 
 ### Primary Historical Sources
 
-- **Ibn Khaldun, *History of the Berbers***: Notes his reign and diplomacy
-- **al-Bakri, *Geographic Compendium***: Describes Barghawata practices
+- **Ibn Khaldun, _History of the Berbers_**: Notes his reign and diplomacy
+- **al-Bakri, _Geographic Compendium_**: Describes Barghawata practices
 
 ### Secondary Sources
 
@@ -316,18 +316,18 @@ Abu al-Ansar represents the **diplomat king**—the ruler who navigates complex 
 
 ## Appendix: Seven Kings (Final)
 
-| King # | Ruler | Reign | Status |
-|--------|-------|-------|--------|
-| 1 | Salih ibn Tarif | 744–791 | The "prophet" |
-| 2 | Ilyas ibn Salih | 791–842 | Kept secret |
-| 3 | Yunus ibn Ilyas | 842–888 | The revealer |
-| 4 | Abu Ghufail | 888–913 | The consolidator |
-| **5** | **Abu al-Ansar Abdullah** | **917–961** | **The diplomat (44 years)** |
-| 6 | Abu Mansur Isa | 961–? | Later ruler |
-| **7** | **[Would-be return]** | **Never reached** | **Prophecy failed** |
+| King # | Ruler                     | Reign             | Status                      |
+| ------ | ------------------------- | ----------------- | --------------------------- |
+| 1      | Salih ibn Tarif           | 744–791           | The "prophet"               |
+| 2      | Ilyas ibn Salih           | 791–842           | Kept secret                 |
+| 3      | Yunus ibn Ilyas           | 842–888           | The revealer                |
+| 4      | Abu Ghufair               | 888–913           | The consolidator            |
+| **5**  | **Abu al-Ansar Abdullah** | **917–961**       | **The diplomat (44 years)** |
+| 6      | Abu Mansur Isa            | 961–?             | Later ruler                 |
+| **7**  | **[Would-be return]**     | **Never reached** | **Prophecy failed**         |
 
 ---
 
-*Last Updated: 2026-03-07*  
-*Canonical Status: Confirmed*  
-*Schema Version: 2.0*
+_Last Updated: 2026-03-07_  
+_Canonical Status: Confirmed_  
+_Schema Version: 2.0_

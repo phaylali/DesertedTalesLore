@@ -32,11 +32,11 @@ Yunus ibn Ilyas (c. 800 – c. 888 CE) was the third ruler of the Barghawata Con
 
 ### Full Name Breakdown
 
-| Component | Arabic | Meaning | Notes |
-|-----------|--------|---------|-------|
-| **Yunus** | يونس | "Jonah" (Arabic form of Hebrew Yonatan) | Biblical prophet name; common in Christian-influenced regions |
-| **ibn** | ابن | "son of" | Patronymic marker |
-| **Ilyas** | إلياس | "Elijah" (Hebrew origin) | Father's name; connects to Ilyas ibn Salih |
+| Component | Arabic | Meaning                                 | Notes                                                         |
+| --------- | ------ | --------------------------------------- | ------------------------------------------------------------- |
+| **Yunus** | يونس   | "Jonah" (Arabic form of Hebrew Yonatan) | Biblical prophet name; common in Christian-influenced regions |
+| **ibn**   | ابن    | "son of"                                | Patronymic marker                                             |
+| **Ilyas** | إلياس  | "Elijah" (Hebrew origin)                | Father's name; connects to Ilyas ibn Salih                    |
 
 ### Name Variations
 
@@ -52,13 +52,13 @@ The name **Yunus** (Jonah) carries profound biblical resonance—the Arabic form
 
 ## Dates & Vital Statistics
 
-| Event | Date | CE | Notes |
-|-------|------|-----|-------|
-| **Born** | c. 800 | — | Tamesna region; son of Ilyas ibn Salih |
-| **Succeeded Father** | 842 | — | Inherited upon father's death |
-| **Public Revelation** | 842 | — | Announced Barghawata faith publicly |
-| **Died** | c. 888 | — | After 46-year reign |
-| **Reign** | 842–888 | — | 46 years |
+| Event                 | Date    | CE  | Notes                                  |
+| --------------------- | ------- | --- | -------------------------------------- |
+| **Born**              | c. 800  | —   | Tamesna region; son of Ilyas ibn Salih |
+| **Succeeded Father**  | 842     | —   | Inherited upon father's death          |
+| **Public Revelation** | 842     | —   | Announced Barghawata faith publicly    |
+| **Died**              | c. 888  | —   | After 46-year reign                    |
+| **Reign**             | 842–888 | —   | 46 years                               |
 
 ---
 
@@ -73,38 +73,38 @@ Most crucially, Yunus received direct transmission of the secret Barghawata teac
 - Knowledge of the Berber Quran
 - Understanding of the distinctive rituals
 - History of his grandfather Salih's claims
-- The practice of *taqiyyah* (religious concealment)
+- The practice of _taqiyyah_ (religious concealment)
 
 ### Family Relations
 
-| Relation | Name | Status | Notes |
-|----------|------|--------|-------|
-| **Father** | **Ilyas ibn Salih** | Deceased 842 | Second ruler; maintained taqiyyah |
-| **Son & Successor** | **Abu Ghufail** | Living | Continued rule 888–913 |
-| **Grandfather** | **Salih ibn Tarif** | Deceased 791 | First prophet-king |
-| **Grandson** | **Abu al-Ansar Abdullah** | — | Later ruled c. 917–961 |
+| Relation            | Name                      | Status       | Notes                             |
+| ------------------- | ------------------------- | ------------ | --------------------------------- |
+| **Father**          | **Ilyas ibn Salih**       | Deceased 842 | Second ruler; maintained taqiyyah |
+| **Son & Successor** | **Abu Ghufair**           | Living       | Continued rule 888–913            |
+| **Grandfather**     | **Salih ibn Tarif**       | Deceased 791 | First prophet-king                |
+| **Grandson**        | **Abu al-Ansar Abdullah** | —            | Later ruled c. 917–961            |
 
 ### Ethnicity & Identity
 
-| Attribute | Details |
-|-----------|---------|
-| **Primary Ethnicity** | Masmuda Berber |
-| **Language(s)** | Tamazight (native), Arabic (learned) |
-| **Cultural Affiliation** | Atlantic Coast Berber (Tamesna) |
+| Attribute                 | Details                                     |
+| ------------------------- | ------------------------------------------- |
+| **Primary Ethnicity**     | Masmuda Berber                              |
+| **Language(s)**           | Tamazight (native), Arabic (learned)        |
+| **Cultural Affiliation**  | Atlantic Coast Berber (Tamesna)             |
 | **Religious Affiliation** | Barghawata faith (institutionalized by him) |
 
 ---
 
 ## Chronological Timeline
 
-| Year | CE | Event | Significance |
-|------|-----|-------|--------------|
-| c. | 800 | Birth of Yunus | Son of Ilyas |
-| | 842 | Succeeded father as ruler | Inherited at ~42 years old |
-| | 842 | Public revelation | Ended taqiyyah; announced faith |
-| | 842–888 | Reign as revealed king | Institutionalized religion |
-| | c. 860 | Hajj pilgrimage | Performed to maintain Islamic credentials |
-| | 888 | Death | Passed throne to Abu Ghufail |
+| Year | CE      | Event                     | Significance                              |
+| ---- | ------- | ------------------------- | ----------------------------------------- |
+| c.   | 800     | Birth of Yunus            | Son of Ilyas                              |
+|      | 842     | Succeeded father as ruler | Inherited at ~42 years old                |
+|      | 842     | Public revelation         | Ended taqiyyah; announced faith           |
+|      | 842–888 | Reign as revealed king    | Institutionalized religion                |
+|      | c. 860  | Hajj pilgrimage           | Performed to maintain Islamic credentials |
+|      | 888     | Death                     | Passed throne to Abu Ghufair              |
 
 ---
 
@@ -116,29 +116,29 @@ Most crucially, Yunus received direct transmission of the secret Barghawata teac
 
 **Major Contemporary Events:**
 
-| Event | Date | Relationship |
-|-------|------|--------------|
-| Abbasid Caliphate weakens | 9th century | Fragmented authority |
-| Umayyad Emirate of Córdoba | 756–1031 | Iberian power; fluctuating relations |
-| Fatimid Caliphate rises | 909 | Eastern rival |
-| Idrisid state in Morocco | 789–974 | Neighboring dynasty |
+| Event                      | Date        | Relationship                         |
+| -------------------------- | ----------- | ------------------------------------ |
+| Abbasid Caliphate weakens  | 9th century | Fragmented authority                 |
+| Umayyad Emirate of Córdoba | 756–1031    | Iberian power; fluctuating relations |
+| Fatimid Caliphate rises    | 909         | Eastern rival                        |
+| Idrisid state in Morocco   | 789–974     | Neighboring dynasty                  |
 
 ### Contemporary Figures
 
-| Figure | Relationship | Nature |
-|--------|-------------|--------|
-| **Ilyas ibn Salih** | Father | Previous ruler; maintained concealment |
-| **Abu Ghufail** | Son | Succeeded; consolidated |
-| **Abd al-Rahman II** | Contemporary | Umayyad Emir of Córdoba (822–852) |
-| **Muhammad I** | Contemporary | Emir of Córdoba (852–886) |
+| Figure               | Relationship | Nature                                 |
+| -------------------- | ------------ | -------------------------------------- |
+| **Ilyas ibn Salih**  | Father       | Previous ruler; maintained concealment |
+| **Abu Ghufair**      | Son          | Succeeded; consolidated                |
+| **Abd al-Rahman II** | Contemporary | Umayyad Emir of Córdoba (822–852)      |
+| **Muhammad I**       | Contemporary | Emir of Córdoba (852–886)              |
 
 ### Geographic Context
 
 **Primary Regions:**
 
-| Region | Role | Period |
-|--------|------|--------|
-| **Tamesna** | Power base | Lifelong |
+| Region             | Role               | Period         |
+| ------------------ | ------------------ | -------------- |
+| **Tamesna**        | Power base         | Lifelong       |
 | **Atlantic Coast** | Expanded territory | Under his rule |
 
 **Territorial Extent:** Peak of Barghawata power; expanded influence along Atlantic coast; approximately 300 villages.
@@ -149,7 +149,7 @@ Most crucially, Yunus received direct transmission of the secret Barghawata teac
 
 ### The Inheritance (842)
 
-Yunus inherited the throne from his father Ilyas in **842 CE**, at approximately age 42. Unlike his father, who had continued the cautious *taqiyyah* policy of religious concealment, Yunus immediately reversed course. Within months of taking power, he publicly revealed the Barghawata faith—a dramatic break with 98 years of secrecy.
+Yunus inherited the throne from his father Ilyas in **842 CE**, at approximately age 42. Unlike his father, who had continued the cautious _taqiyyah_ policy of religious concealment, Yunus immediately reversed course. Within months of taking power, he publicly revealed the Barghawata faith—a dramatic break with 98 years of secrecy.
 
 ### The Public Revelation (842)
 
@@ -168,12 +168,14 @@ This revelation transformed the Barghawata from a politically autonomous but rel
 The central mystery of Yunus's reign concerns the **authenticity** of what he revealed:
 
 **The Invention Theory:**
+
 - Salih likely never publicly claimed prophethood
-- Ilyas maintained strict *taqiyyah* for 51 years
+- Ilyas maintained strict _taqiyyah_ for 51 years
 - Yunus invented or significantly elaborated the religious system
 - Attribution to grandfather provided political legitimacy
 
 **The Revival Theory:**
+
 - Salih made secret claims that Yunus now revealed
 - The faith existed privately for decades
 - Yunus was faithfully transmitting ancestral teachings
@@ -196,12 +198,12 @@ The 7,770 figure (from Ibn Khaldun) is almost certainly an exaggeration, but it 
 
 The victims of Yunus's persecution were specifically:
 
-| Group | Description | Fate |
-|-------|-------------|------|
-| **Rejecting Orthodox Muslims** | Followers of mainstream Islam who rejected the 80-surah Berber Quran | Forced conversion or execution |
-| **The 17 Tribes** | The tribes that had maintained Sufri Kharijite or orthodox Islam under the Barghawata umbrella | Majority refused; faced violence |
-| **Islamic Scholars** | Those who questioned the validity of Salih's prophetic claims | Targeted as dissenters |
-| **Political Opponents** | Those who used religious rejection as cover for opposition to Yunus's rule | Eliminated |
+| Group                          | Description                                                                                    | Fate                             |
+| ------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------- |
+| **Rejecting Orthodox Muslims** | Followers of mainstream Islam who rejected the 80-surah Berber Quran                           | Forced conversion or execution   |
+| **The 17 Tribes**              | The tribes that had maintained Sufri Kharijite or orthodox Islam under the Barghawata umbrella | Majority refused; faced violence |
+| **Islamic Scholars**           | Those who questioned the validity of Salih's prophetic claims                                  | Targeted as dissenters           |
+| **Political Opponents**        | Those who used religious rejection as cover for opposition to Yunus's rule                     | Eliminated                       |
 
 #### The Post-Hajj Theory
 
@@ -224,6 +226,7 @@ Despite declaring his grandfather a prophet and establishing a heterodox faith, 
 
 **The Post-Hajj Persecution Theory:**
 Some scholars and interpreters suggest that Yunus's violent campaign of forced conversion **began after his return from the Hajj**. The theory proposes:
+
 - He went to Mecca to test or announce his intentions
 - He was rejected, confronted, or dismissed by orthodox scholars
 - Returning frustrated and embittered, he lashed out at those who refused his faith
@@ -231,7 +234,7 @@ Some scholars and interpreters suggest that Yunus's violent campaign of forced c
 
 ### Death and Succession (888)
 
-Yunus died around **888 CE** after a 46-year reign, having transformed the Barghawata from a secret tradition into a public religion. He was succeeded by his son **Abu Ghufail**, who would continue consolidating the religious and political structures.
+Yunus died around **888 CE** after a 46-year reign, having transformed the Barghawata from a secret tradition into a public religion. He was succeeded by his son **Abu Ghufair**, who would continue consolidating the religious and political structures.
 
 ---
 
@@ -239,11 +242,11 @@ Yunus died around **888 CE** after a 46-year reign, having transformed the Bargh
 
 ### Primary Position
 
-| Position | Faction | Period | Notes |
-|----------|---------|--------|-------|
-| **King** | Barghawata Confederacy | 842–888 | Third ruler |
-| **Religious Founder** | Barghawata faith | 842–888 | Institutionalized doctrine |
-| **Prophet-Promoter** | Barghawata faith | 842–888 | Attributed prophecy to grandfather |
+| Position              | Faction                | Period  | Notes                              |
+| --------------------- | ---------------------- | ------- | ---------------------------------- |
+| **King**              | Barghawata Confederacy | 842–888 | Third ruler                        |
+| **Religious Founder** | Barghawata faith       | 842–888 | Institutionalized doctrine         |
+| **Prophet-Promoter**  | Barghawata faith       | 842–888 | Attributed prophecy to grandfather |
 
 ### Governance Philosophy
 
@@ -254,22 +257,22 @@ Yunus died around **888 CE** after a 46-year reign, having transformed the Bargh
 
 ### Religious Innovations
 
-| Element | Pre-Yunus | Yunus's Development |
-|---------|-----------|---------------------|
-| **Prophetic claims** | Secret | Publicly declared |
-| **Berber Quran** | Hidden | Institutionalized |
-| **Religious identity** | Private | State religion |
-| **Conversion policy** | Voluntary | Forced |
-| **Return prophecy** | Private hope | Public doctrine |
+| Element                | Pre-Yunus    | Yunus's Development |
+| ---------------------- | ------------ | ------------------- |
+| **Prophetic claims**   | Secret       | Publicly declared   |
+| **Berber Quran**       | Hidden       | Institutionalized   |
+| **Religious identity** | Private      | State religion      |
+| **Conversion policy**  | Voluntary    | Forced              |
+| **Return prophecy**    | Private hope | Public doctrine     |
 
 ### Controversies
 
-| Controversy | Nature | Historical View | Modern View |
-|-------------|--------|-----------------|-------------|
-| Invention of religion | Religious/political | Revelation | Likely fabrication |
-| Forced conversion of refusers | Religious violence | Necessary | Excessive |
-| Hajj while claiming prophecy | Religious contradiction | Hypocrisy | Pragmatism |
-| **Post-Hajj persecution** | Political/psychological | Not recorded | Theory: reaction to rejection |
+| Controversy                   | Nature                  | Historical View | Modern View                   |
+| ----------------------------- | ----------------------- | --------------- | ----------------------------- |
+| Invention of religion         | Religious/political     | Revelation      | Likely fabrication            |
+| Forced conversion of refusers | Religious violence      | Necessary       | Excessive                     |
+| Hajj while claiming prophecy  | Religious contradiction | Hypocrisy       | Pragmatism                    |
+| **Post-Hajj persecution**     | Political/psychological | Not recorded    | Theory: reaction to rejection |
 
 ---
 
@@ -277,7 +280,7 @@ Yunus died around **888 CE** after a 46-year reign, having transformed the Bargh
 
 ### Why Reveal Now?
 
-Yunus's decision to end *taqiyyah* was likely driven by multiple factors:
+Yunus's decision to end _taqiyyah_ was likely driven by multiple factors:
 
 1. **Political Legitimacy:** Claiming prophetic ancestry strengthened his family's right to rule
 2. **State Identity:** Creating a distinct religion distinguished the Barghawata from neighbors
@@ -298,15 +301,15 @@ Yunus famously declared that his grandfather Salih would return during the reign
 
 The 7th King prophecy reveals Yunus's calculation:
 
-| King # | Ruler | Status |
-|--------|-------|--------|
-| 1 | Salih ibn Tarif | The "prophet" |
-| 2 | Ilyas ibn Salih | Concealer |
-| 3 | Yunus ibn Ilyas | The revealer |
-| 4 | Abu Ghufail | Consolidator |
-| 5 | [Unknown] | Gap |
-| 6 | [Unknown] | Gap |
-| 7 | [Would-be return] | Never reached |
+| King # | Ruler             | Status        |
+| ------ | ----------------- | ------------- |
+| 1      | Salih ibn Tarif   | The "prophet" |
+| 2      | Ilyas ibn Salih   | Concealer     |
+| 3      | Yunus ibn Ilyas   | The revealer  |
+| 4      | Abu Ghufair       | Consolidator  |
+| 5      | [Unknown]         | Gap           |
+| 6      | [Unknown]         | Gap           |
+| 7      | [Would-be return] | Never reached |
 
 ---
 
@@ -316,10 +319,10 @@ The 7th King prophecy reveals Yunus's calculation:
 
 No contemporary accounts of Yunus survive.
 
-| Source | Author | Date | Description | Reliability |
-|--------|--------|------|-------------|-------------|
-| *Muqaddimah* | Ibn Khaldun | d. 1406 | Historiographical framework | Remote from events |
-| Geographic compendium | al-Bakri | d. 1094 | Describes practices | Hostile tone |
+| Source                | Author      | Date    | Description                 | Reliability        |
+| --------------------- | ----------- | ------- | --------------------------- | ------------------ |
+| _Muqaddimah_          | Ibn Khaldun | d. 1406 | Historiographical framework | Remote from events |
+| Geographic compendium | al-Bakri    | d. 1094 | Describes practices         | Hostile tone       |
 
 ### Attributed Quotations
 
@@ -345,27 +348,27 @@ No contemporary accounts of Yunus survive.
 
 ### Medieval Arab Sources
 
-| Source | Author | Century | Treatment |
-|--------|--------|---------|-----------|
-| *Muqaddimah* | Ibn Khaldun | 14th | Reports killing of 7,770; notes Hajj |
-| Geographic compendium | al-Bakri | 11th | Describes forced conversion |
-| Various | Multiple | 9th–11th | Hostile to "heretical" Barghawata |
+| Source                | Author      | Century  | Treatment                            |
+| --------------------- | ----------- | -------- | ------------------------------------ |
+| _Muqaddimah_          | Ibn Khaldun | 14th     | Reports killing of 7,770; notes Hajj |
+| Geographic compendium | al-Bakri    | 11th     | Describes forced conversion          |
+| Various               | Multiple    | 9th–11th | Hostile to "heretical" Barghawata    |
 
 ### Modern Scholarship
 
-| Scholar | Position |
-|---------|----------|
-| **General scholarship** | Accepts Yunus as key transformative figure |
-| **Islamic studies** | Views him as inventor of religious system |
-| **Berber historians** | Sees him as cultural hero or political operator |
+| Scholar                 | Position                                        |
+| ----------------------- | ----------------------------------------------- |
+| **General scholarship** | Accepts Yunus as key transformative figure      |
+| **Islamic studies**     | Views him as inventor of religious system       |
+| **Berber historians**   | Sees him as cultural hero or political operator |
 
 ### Conflicting Interpretations
 
-| View | Proponents | Evidence |
-|------|------------|----------|
-| **Faithful revelation** | Traditional Barghawata | Transmission from Ilyas |
-| **Political invention** | Modern scholars | No contemporary evidence for Salih's claims |
-| **Gradual development** | Some academics | Synthesis of earlier elements |
+| View                    | Proponents             | Evidence                                    |
+| ----------------------- | ---------------------- | ------------------------------------------- |
+| **Faithful revelation** | Traditional Barghawata | Transmission from Ilyas                     |
+| **Political invention** | Modern scholars        | No contemporary evidence for Salih's claims |
+| **Gradual development** | Some academics         | Synthesis of earlier elements               |
 
 ### Current Academic Consensus
 
@@ -398,11 +401,11 @@ No contemporary accounts of Yunus survive.
 
 Yunus represents a **paradoxical figure**:
 
-| Action | Interpretation |
-|--------|----------------|
-| Revealed faith | Bold leadership OR political manipulation |
-| Killed opponents | Religious zealotry OR state consolidation |
-| Performed Hajj | Hypocrisy OR pragmatic diplomacy |
+| Action               | Interpretation                              |
+| -------------------- | ------------------------------------------- |
+| Revealed faith       | Bold leadership OR political manipulation   |
+| Killed opponents     | Religious zealotry OR state consolidation   |
+| Performed Hajj       | Hypocrisy OR pragmatic diplomacy            |
 | Credited grandfather | Faithful transmission OR invented tradition |
 
 Modern assessment depends heavily on whether one emphasizes his religious conviction or political cunning.
@@ -415,7 +418,7 @@ Modern assessment depends heavily on whether one emphasizes his religious convic
 
 - [[Wiki/Characters/Ilyas_ibn_Salih]] — Father; maintained concealment
 - [[Wiki/Characters/Salih_ibn_Tarif]] — Grandfather; attributed prophet
-- [[Wiki/Characters/Abu_Ghufail]] — Son; consolidated power
+- [[Wiki/Characters/Abu_Ghufair]] — Son; consolidated power
 - [[Wiki/Characters/Tarif_al-Matghari]] — Great-grandfather; political founder
 
 ### Events
@@ -454,12 +457,12 @@ Yunus is the **dramatic catalyst**—the figure who transforms quiet preservatio
 
 ### Media Potential
 
-| Medium | Suitability | Notes |
-|--------|-------------|-------|
-| **Video Game** | High | Revelation quests; violent conversion mechanics; prophecy investigation |
-| **Film/Television** | High | Dramatic reversal; religious conflict; family drama |
-| **Novel/Book** | High | Complex character; moral ambiguity |
-| **Documentary** | Medium | Central figure in religious history |
+| Medium              | Suitability | Notes                                                                   |
+| ------------------- | ----------- | ----------------------------------------------------------------------- |
+| **Video Game**      | High        | Revelation quests; violent conversion mechanics; prophecy investigation |
+| **Film/Television** | High        | Dramatic reversal; religious conflict; family drama                     |
+| **Novel/Book**      | High        | Complex character; moral ambiguity                                      |
+| **Documentary**     | Medium      | Central figure in religious history                                     |
 
 ### Archetype
 
@@ -478,8 +481,8 @@ Yunus is the **dramatic catalyst**—the figure who transforms quiet preservatio
 
 ### Primary Historical Sources
 
-- **Ibn Khaldun, *Muqaddimah***: Reports violence and Hajj
-- **al-Bakri, *Geographic Compendium***: Describes practices
+- **Ibn Khaldun, _Muqaddimah_**: Reports violence and Hajj
+- **al-Bakri, _Geographic Compendium_**: Describes practices
 
 ### Secondary Sources
 
@@ -496,18 +499,18 @@ Yunus is the **dramatic catalyst**—the figure who transforms quiet preservatio
 
 ## Appendix: The Seven Kings (Updated)
 
-| King # | Ruler | Reign | Status |
-|--------|-------|-------|--------|
-| 1 | Salih ibn Tarif | 744–791 | The "prophet" |
-| 2 | Ilyas ibn Salih | 791–842 | Kept secret |
-| **3** | **Yunus ibn Ilyas** | **842–888** | **The revealer** |
-| 4 | Abu Ghufail | 888–913 | Consolidator |
-| 5 | [Unknown] | 913–? | Gap |
-| 6 | [Unknown] | ?–? | Gap |
-| **7** | **[Would-be return]** | **Never reached** | **Prophecy failed** |
+| King # | Ruler                 | Reign             | Status              |
+| ------ | --------------------- | ----------------- | ------------------- |
+| 1      | Salih ibn Tarif       | 744–791           | The "prophet"       |
+| 2      | Ilyas ibn Salih       | 791–842           | Kept secret         |
+| **3**  | **Yunus ibn Ilyas**   | **842–888**       | **The revealer**    |
+| 4      | Abu Ghufair           | 888–913           | Consolidator        |
+| 5      | [Unknown]             | 913–?             | Gap                 |
+| 6      | [Unknown]             | ?–?               | Gap                 |
+| **7**  | **[Would-be return]** | **Never reached** | **Prophecy failed** |
 
 ---
 
-*Last Updated: 2026-03-07*  
-*Canonical Status: Confirmed*  
-*Schema Version: 2.0*
+_Last Updated: 2026-03-07_  
+_Canonical Status: Confirmed_  
+_Schema Version: 2.0_

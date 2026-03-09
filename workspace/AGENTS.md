@@ -211,6 +211,47 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
 
+---
+
+## 📋 Custom Workflow: Vault → Wiki Character Processing
+
+### Character Creation Process
+
+1. **Find source files:**
+   - Check `Vault/UnstructuredData/characters/[Name].md`
+   - Check `Vault/UnstructuredData/[Name].md`
+   - Check `Vault/characters/[Name].md`
+   - Use grep to find references across Vault
+
+2. **Research additional context:**
+   - Search web for the character name + key terms
+   - Look for historical details not in source files
+
+3. **Create Wiki entry:**
+   - Follow schema in `Wiki/Characters/schema.md`
+   - Include all sections: Overview, Etymology, Dates, Origins, Timeline, Biography, etc.
+   - Add historical context and historiography
+   - Link to related entries
+
+4. **Present to user:**
+   - Summarize key themes
+   - List next options
+   - Wait for direction
+
+### Schema Version
+
+Current: **2.0** (expanded for comprehensive history wiki)
+
+### Quick Reference
+
+| Vault Source | Wiki Destination |
+|--------------|------------------|
+| `Vault/UnstructuredData/characters/` | `Wiki/Characters/` |
+| `Vault/UnstructuredData/` | Various Wiki folders |
+| `Vault/characters/` | `Wiki/Characters/` |
+
+---
+
 <!-- clawx:begin -->
 ## ClawX Environment
 

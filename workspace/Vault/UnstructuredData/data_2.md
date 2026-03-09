@@ -2,130 +2,130 @@
 
 The Emirate of Nekor governed for over two centuries, with a succession of rulers:
 
-* **Saleh ibn Mansour** ruled from 710 CE to 750 CE.  
-* **Al-Mu'tasim ibn Saleh** ruled in 750 CE.  
-* **Idris ibn Saleh** ruled from 750 CE to 760 CE.  
-* **Said ibn Idris** ruled from 760 CE to 804 CE.  
-* **Saleh ibn Said** ruled from 804 CE to 864 CE.  
-* **Said ibn Saleh** ruled from 864 CE to 916 CE.  
-* **Saleh ibn Said al-Yatim** ruled from 917 CE to 927 CE.  
-* **Abd al-Badi' al-Mu'ayyad ibn Saleh** ruled from 927 CE to 929 CE.  
-* **Abu Ayyub Ismail** ruled from 929 CE to 932 CE.  
-* **Musa ibn al-Mu'tasim** ruled from 932 CE to 941 CE.  
-* **Abd al-Sami' ibn Jurthum** ruled from 941 CE to 948 CE.  
-* **Jurthum ibn Ahmad ibn Ziyadat Allah** ruled from 948 CE to 971 CE.
+- **Saleh ibn Mansour** ruled from 710 CE to 750 CE.
+- **Al-Mu'tasim ibn Saleh** ruled in 750 CE.
+- **Idris ibn Saleh** ruled from 750 CE to 760 CE.
+- **Said ibn Idris** ruled from 760 CE to 804 CE.
+- **Saleh ibn Said** ruled from 804 CE to 864 CE.
+- **Said ibn Saleh** ruled from 864 CE to 916 CE.
+- **Saleh ibn Said al-Yatim** ruled from 917 CE to 927 CE.
+- **Abd al-Badi' al-Mu'ayyad ibn Saleh** ruled from 927 CE to 929 CE.
+- **Abu Ayyub Ismail** ruled from 929 CE to 932 CE.
+- **Musa ibn al-Mu'tasim** ruled from 932 CE to 941 CE.
+- **Abd al-Sami' ibn Jurthum** ruled from 941 CE to 948 CE.
+- **Jurthum ibn Ahmad ibn Ziyadat Allah** ruled from 948 CE to 971 CE.
 
 ### **Idrisid Dynasty**
 
 The Idrisids established the first independent Islamic state in Morocco. Their rulers were:
 
-* **Idris ibn Abdallah**, known as Idris I, lived between 722 and 793 and ruled from 788 CE to 793 CE.  
-* **Idris II** lived between 793 and 828 and ruled from 807 CE to 828 CE.  
-* **Muhammad ibn Idris** ruled from 828 CE to 836 CE, and died in 836\.  
-* **Ali ibn Muhammad**, known as Ali I, ruled from 836 CE to 848 CE, and died in 849\.  
-* **Yahya ibn Muhammad**, known as Yahya I, ruled from 848 CE to 864 CE, and died in 848\.  
-* **Yahya ibn Yahya**, known as Yahya II, ruled from 864 CE to 874 CE, and died in 874\.  
-* **Ali ibn Omar ibn Idris**, known as Ali II, ruled from 874 CE to 883 CE.  
-* **Yahya ibn al-Qasim ibn Idris**, known as Yahya III, ruled from 883 CE to 904 CE, and died in 904\.  
-* **Yahya ibn Idris ibn Omar**, known as Yahya IV, ruled from 904 CE to 917 CE, and died in 934\.  
-* **Al-Hasan al-Hajjam ibn Muhammad ibn al-Qasim** ruled from 905 CE to 922 CE.  
-* **Al-Qasim Kannun ibn Ibrahim** ruled from 937 CE to 925 CE.  
-* **Abu al-Aysh Ahmad ibn Kannun** ruled from 948 CE to 959 CE.  
-* **Al-Hasan ibn Kannun**, known as Al-Hasan II al-Idrisi, ruled from 959 CE to 985 CE.
+- **Idris ibn Abdallah**, known as Idris I, lived between 722 and 793 and ruled from 788 CE to 793 CE.
+- **Idris II** lived between 793 and 828 and ruled from 807 CE to 828 CE.
+- **Muhammad ibn Idris** ruled from 828 CE to 836 CE, and died in 836\.
+- **Ali ibn Muhammad**, known as Ali I, ruled from 836 CE to 848 CE, and died in 849\.
+- **Yahya ibn Muhammad**, known as Yahya I, ruled from 848 CE to 864 CE, and died in 848\.
+- **Yahya ibn Yahya**, known as Yahya II, ruled from 864 CE to 874 CE, and died in 874\.
+- **Ali ibn Omar ibn Idris**, known as Ali II, ruled from 874 CE to 883 CE.
+- **Yahya ibn al-Qasim ibn Idris**, known as Yahya III, ruled from 883 CE to 904 CE, and died in 904\.
+- **Yahya ibn Idris ibn Omar**, known as Yahya IV, ruled from 904 CE to 917 CE, and died in 934\.
+- **Al-Hasan al-Hajjam ibn Muhammad ibn al-Qasim** ruled from 905 CE to 922 CE.
+- **Al-Qasim Kannun ibn Ibrahim** ruled from 937 CE to 925 CE.
+- **Abu al-Aysh Ahmad ibn Kannun** ruled from 948 CE to 959 CE.
+- **Al-Hasan ibn Kannun**, known as Al-Hasan II al-Idrisi, ruled from 959 CE to 985 CE.
 
 ### **Burghwata (Emirate of Burghwata)**
 
 The Burghwata, also known as the Emirate of Burghwata, were led by the following individuals:
 
-* **Tarif al-Matghari**.  
-* **Saleh ibn Tarif**, who declared himself a prophet in 744 CE, disappeared at age 47, promising a return.  
-* **Ilyas ibn Saleh** ruled from 792 CE to 842 CE.  
-* **Yunus ibn Ilyas** ruled from 842 CE to 888 CE.  
-* **Abu Ghafir Muhammad** ruled from 888 CE to 917 CE.  
-* **Abu al-Ansar Abdallah** ruled from 917 CE to 961 CE.  
-* **Abu Mansour Isa** ruled starting from 961 CE.
+- **Tarif al-Matghari**.
+- **Saleh ibn Tarif**, who declared himself a prophet in 744 CE, disappeared at age 47, promising a return.
+- **Ilyas ibn Saleh** ruled from 792 CE to 842 CE.
+- **Yunus ibn Ilyas** ruled from 842 CE to 888 CE.
+- **Abu Ghafir Muhammad** ruled from 888 CE to 917 CE.
+- **Abu al-Ansar Abdallah** ruled from 917 CE to 961 CE.
+- **Abu Mansour Isa** ruled starting from 961 CE.
 
 ### **Maghrawa (Maghrawa Emirate)**
 
 The Maghrawa Emirate was led by the following rulers:
 
-* **Muqatil ibn Atiyya al-Maghrawi** ruled from 986 CE to 988 CE.  
-* **Ziri ibn Atiyya al-Maghrawi** ruled from 989 CE to 1001 CE.  
-* **Al-Mu'izz ibn Ziri ibn Atiyya** ruled from 1001 CE to 1026 CE.  
-* **Hamama ibn al-Mu'izz ibn Atiyya** ruled from 1026 CE to 1033 CE.  
-* **Abu Kamal Tamim ibn Ziri ibn Ya'la al-Ifrani** ruled from 1033 CE to 1038 CE.  
-* **Hamama ibn al-Mu'izz ibn Atiyya** had a second reign from 1038 CE to 1040 CE.  
-* **Abu al-Attaf Dunas ibn Hamama** ruled from 1040 CE to 1059 CE, during which a **siege of Fez** occurred between 1040 CE and 1044 CE.  
-* **Al-Futuh ibn Dunas** ruled from 1059 CE to 1062 CE.  
-* **Ajisa ibn Dunas** ruled from 1059 CE to 1061 CE.
+- **Muqatil ibn Atiyya al-Maghrawi** ruled from 986 CE to 988 CE.
+- **Ziri ibn Atiyya al-Maghrawi** ruled from 989 CE to 1001 CE.
+- **Al-Mu'izz ibn Ziri ibn Atiyya** ruled from 1001 CE to 1026 CE.
+- **Hamama ibn al-Mu'izz ibn Atiyya** ruled from 1026 CE to 1033 CE.
+- **Abu Kamal Tamim ibn Ziri ibn Ya'la al-Ifrani** ruled from 1033 CE to 1038 CE.
+- **Hamama ibn al-Mu'izz ibn Atiyya** had a second reign from 1038 CE to 1040 CE.
+- **Abu al-Attaf Dunas ibn Hamama** ruled from 1040 CE to 1059 CE, during which a **siege of Fez** occurred between 1040 CE and 1044 CE.
+- **Al-Futuh ibn Dunas** ruled from 1059 CE to 1062 CE.
+- **Ajisa ibn Dunas** ruled from 1059 CE to 1061 CE.
 
 ### **Almoravid Dynasty**
 
 The Almoravid state was founded by Abdallah ibn Yasin and expanded significantly under subsequent rulers:
 
-* **Abdallah ibn Yasin**, the founder of the Almoravid state, ruled from 1040 CE to 1056 CE.  
-* **Abu Bakr ibn Umar** ruled from 448 AH (1056/1057 CE) to 480 AH (1087/1088 CE).  
-* **Yusuf ibn Tashfin al-Lamtuni** lived between 1009 and 1106 and ruled from 1065 CE to 1106 CE. He also ruled in Fez only from 1062 CE to 1063 CE.  
-* **Ali ibn Yusuf ibn Tashfin** died in 1143 and ruled from 1107 CE to 1143 CE.  
-* **Tashfin ibn Ali** died in 1146 and ruled from 1143 CE to 1146 CE.  
-* **Ibrahim ibn Tashfin** ruled in 1146 CE.  
-* **Ishaq ibn Ali** died in 1147 and ruled from 1146 CE to 1147 CE.
+- **Abdallah ibn Yasin**, the founder of the Almoravid state, ruled from 1040 CE to 1056 CE.
+- **Abu Bakr ibn Umar** ruled from 448 AH (1056/1057 CE) to 480 AH (1087/1088 CE).
+- **Yusuf ibn Tashfin al-Lamtuni** lived between 1009 and 1106 and ruled from 1065 CE to 1106 CE. He also ruled in Fez only from 1062 CE to 1063 CE.
+- **Ali ibn Yusuf ibn Tashfin** died in 1143 and ruled from 1107 CE to 1143 CE.
+- **Tashfin ibn Ali** died in 1146 and ruled from 1143 CE to 1146 CE.
+- **Ibrahim ibn Tashfin** ruled in 1146 CE.
+- **Ishaq ibn Ali** died in 1147 and ruled from 1146 CE to 1147 CE.
 
 ### **Almohad Dynasty**
 
 The Almohad dynasty governed for about a century, with several rulers overseeing its rise and eventual decline:
 
-* **Abd al-Mu'min al-Kumi ibn Ali** lived between 1094 and 1163 and ruled from 1133 CE to 1163 CE.  
-* **Abu Yaqub Yusuf ibn Abd al-Mu'min** lived between 1138 and 1184 and ruled from 1163 CE to 1184 CE.  
-* **Abu Yusuf Yaqub al-Mansour ibn Yusuf** lived between 1160 and 1199 and ruled from 1184 CE to 1199 CE.  
-* **Muhammad al-Nasir ibn Yaqub ibn Yusuf** died in 1213 and ruled from 1199 CE to 1213 CE.  
-* **Yusuf al-Mustansir** ruled from 1213 CE to 1224 CE.  
-* **Abd al-Wahid al-Wahid** (the Dethroned) ruled in 1224 CE.  
-* **Muhammad al-Adil** ruled from 1224 CE to 1227 CE.  
-* **Yahya al-Mu'tasim** ruled from 1227 CE to 1230 CE.  
-* **Idris al-Ma'mun** ruled from 1227 CE to 1232 CE.  
-* **Abd al-Wahid al-Rashid** ruled from 1232 CE to 1242 CE.  
-* **Ali al-Sa'id** ruled from 1242 CE to 1248 CE.  
-* **Omar al-Murtada** ruled from 1248 CE to 1266 CE.  
-* **Idris al-Wathiq** (al-Dabbus) ruled from 1266 CE to 1269 CE.
+- **Abd al-Mu'min al-Kumi ibn Ali** lived between 1094 and 1163 and ruled from 1133 CE to 1163 CE.
+- **Abu Yaqub Yusuf ibn Abd al-Mu'min** lived between 1138 and 1184 and ruled from 1163 CE to 1184 CE.
+- **Abu Yusuf Yaqub al-Mansour ibn Yusuf** lived between 1160 and 1199 and ruled from 1184 CE to 1199 CE.
+- **Muhammad al-Nasir ibn Yaqub ibn Yusuf** died in 1213 and ruled from 1199 CE to 1213 CE.
+- **Yusuf al-Mustansir** ruled from 1213 CE to 1224 CE.
+- **Abd al-Wahid al-Wahid** (the Dethroned) ruled in 1224 CE.
+- **Muhammad al-Adil** ruled from 1224 CE to 1227 CE.
+- **Yahya al-Mu'tasim** ruled from 1227 CE to 1230 CE.
+- **Idris al-Ma'mun** ruled from 1227 CE to 1232 CE.
+- **Abd al-Wahid al-Rashid** ruled from 1232 CE to 1242 CE.
+- **Ali al-Sa'id** ruled from 1242 CE to 1248 CE.
+- **Omar al-Murtada** ruled from 1248 CE to 1266 CE.
+- **Idris al-Wathiq** (al-Dabbus) ruled from 1266 CE to 1269 CE.
 
 ### **Marinid Dynasty**
 
 The Marinids ruled for over two centuries, with a period of internal strife:
 
-* **Abu Yusuf Yaqub ibn Abd al-Haqq** lived between 1210 and 1286 and ruled from 1269 CE to 1286 CE.  
-* **Abu Yaqub Yusuf al-Nasir** ruled from 1286 CE to 1307 CE.  
-* **Abu Thabit Amir** ruled from 1307 CE to 1308 CE.  
-* **Abu al-Rabi' Sulaiman** ruled from 1308 CE to 1310 CE.  
-* **Abu Said Uthman ibn Yaqub** ruled from 1310 CE to 1331 CE.  
-* **Abu al-Hasan Ali ibn Uthman** ruled from 1331 CE to 1348 CE.  
-* **Abu Inan Faris ibn Ali** ruled from 1348 CE to 1358 CE.  
-* **Abu Salim Muhammad ibn Faris** ruled from 1358 CE to 1361 CE.  
-* **Muhammad ibn Yaqub al-Marini** ruled from 1361 CE to 1366 CE.  
-* **Abu al-Aziz I** ruled from 1366 CE to 1372 CE.  
-* A period of **Civil War** occurred between 1372 CE and 1384 CE.  
-* **Musa ibn Faris al-Marini** ruled from 1384 CE to 1387 CE.  
-* **Abu al-Abbas al-Marini** ruled from 1387 CE to 1393 CE.  
-* **Abd al-Aziz al-Marini** ruled from 1393 CE to 1396 CE.  
-* **Abdallah al-Marini** ruled from 1396 CE to 1398 CE.  
-* **Uthman al-Marini** ruled from 1398 CE to 1421 CE.  
-* **Abd al-Haqq al-Marini** ruled from 1421 CE to 1465 CE.
+- **Abu Yusuf Yaqub ibn Abd al-Haqq** lived between 1210 and 1286 and ruled from 1269 CE to 1286 CE.
+- **Abu Yaqub Yusuf al-Nasir** ruled from 1286 CE to 1307 CE.
+- **Abu Thabit Amir** ruled from 1307 CE to 1308 CE.
+- **Abu al-Rabi' Sulaiman** ruled from 1308 CE to 1310 CE.
+- **Abu Said Uthman ibn Yaqub** ruled from 1310 CE to 1331 CE.
+- **Abu al-Hasan Ali ibn Uthman** ruled from 1331 CE to 1348 CE.
+- **Abu Inan Faris ibn Ali** ruled from 1348 CE to 1358 CE.
+- **Abu Salim Muhammad ibn Faris** ruled from 1358 CE to 1361 CE.
+- **Muhammad ibn Yaqub al-Marini** ruled from 1361 CE to 1366 CE.
+- **Abu al-Aziz I** ruled from 1366 CE to 1372 CE.
+- A period of **Civil War** occurred between 1372 CE and 1384 CE.
+- **Musa ibn Faris al-Marini** ruled from 1384 CE to 1387 CE.
+- **Abu al-Abbas al-Marini** ruled from 1387 CE to 1393 CE.
+- **Abd al-Aziz al-Marini** ruled from 1393 CE to 1396 CE.
+- **Abdallah al-Marini** ruled from 1396 CE to 1398 CE.
+- **Uthman al-Marini** ruled from 1398 CE to 1421 CE.
+- **Abd al-Haqq al-Marini** ruled from 1421 CE to 1465 CE.
 
 ### **Idrisid Authority (1465-1471)**
 
 Following the end of the Marinid dynasty, a brief period of Idrisid authority emerged:
 
-* **Muhammad ibn Ali al-Imrani al-Juti** ruled from 1465 CE to 1471 CE.
+- **Muhammad ibn Ali al-Imrani al-Juti** ruled from 1465 CE to 1471 CE.
 
 ### **Wattasid Dynasty**
 
 The Wattasid dynasty came to power after a period of civil war:
 
-* A **Civil War** occurred between 1465 CE and 1472 CE, preceding the Wattasid rule.  
-* **Muhammad ash-Sheikh al-Mahdi** ruled from 1472 CE to 1504 CE.  
-* **Abu Abdallah Muhammad al-Burtughali** ruled from 1504 CE to 1525 CE.  
-* **Abu al-Abbas Ahmad ibn Muhammad** ruled from 1525 CE to 1550 CE.  
-* **Abu al-Hasan Ali ibn Muhammad** (Abu Hassun) died in 1554 and ruled from 1550 CE to 1554 CE.
+- A **Civil War** occurred between 1465 CE and 1472 CE, preceding the Wattasid rule.
+- **Muhammad ash-Sheikh al-Mahdi** ruled from 1472 CE to 1504 CE.
+- **Abu Abdallah Muhammad al-Burtughali** ruled from 1504 CE to 1525 CE.
+- **Abu al-Abbas Ahmad ibn Muhammad** ruled from 1525 CE to 1550 CE.
+- **Abu al-Hasan Ali ibn Muhammad** (Abu Hassun) died in 1554 and ruled from 1550 CE to 1554 CE.
 
 ### **Sharifian Sultanate**
 
@@ -135,31 +135,31 @@ The Sharifian Sultanate is divided into two periods: the Saadian Sharifian State
 
 The Saadian rulers were:
 
-* **Muhammad al-Mahdi al-Qaim bi-Amr Allah** ruled from 1511 CE to 1517 CE.  
-* **Abu al-Abbas Ahmad al-Araj ibn al-Mahdi** ruled from 1517 CE to 1540 CE.  
-* **Abu Abdallah Muhammad ash-Sheikh al-Mahdi** ruled from 1540 CE to 1554 CE.  
-* **Abu Muhammad Abdallah al-Ghalib ibn Muhammad** ruled from 1557 CE to 1574 CE.  
-* **Muhammad al-Mutawakkil al-Maslukh** ruled from 1574 CE to 1576 CE.  
-* **Abu Marwan Abd al-Malik al-Ghazi** ruled from 1576 CE to 1578 CE.  
-* **Ahmad al-Mansour al-Dhahabi** ruled from 1578 CE to 1603 CE.  
-* **Abu Faris Abdallah** ruled from 1603 CE to 1608 CE.  
-* **Zidan al-Nasir ibn Ahmad** ruled from 1603 CE to 1627 CE.  
-* **Abd al-Malik ibn Zidan** ruled from 1627 CE to 1631 CE.  
-* **Al-Walid ibn Zidan** ruled from 1631 CE to 1636 CE.  
-* **Muhammad al-Asghar ibn Zidan** ruled from 1636 CE to 1655 CE.  
-* **Ahmad al-Abbas ibn Muhammad** ruled from 1653 CE to 1659 CE.
+- **Muhammad al-Mahdi al-Qaim bi-Amr Allah** ruled from 1511 CE to 1517 CE.
+- **Abu al-Abbas Ahmad al-Araj ibn al-Mahdi** ruled from 1517 CE to 1540 CE.
+- **Abu Abdallah Muhammad ash-Sheikh al-Mahdi** ruled from 1540 CE to 1554 CE.
+- **Abu Muhammad Abdallah al-Ghalib ibn Muhammad** ruled from 1557 CE to 1574 CE.
+- **Muhammad al-Mutawakkil al-Maslukh** ruled from 1574 CE to 1576 CE.
+- **Abu Marwan Abd al-Malik al-Ghazi** ruled from 1576 CE to 1578 CE.
+- **Ahmad al-Mansour al-Dhahabi** ruled from 1578 CE to 1603 CE.
+- **Abu Faris Abdallah** ruled from 1603 CE to 1608 CE.
+- **Zidan al-Nasir ibn Ahmad** ruled from 1603 CE to 1627 CE.
+- **Abd al-Malik ibn Zidan** ruled from 1627 CE to 1631 CE.
+- **Al-Walid ibn Zidan** ruled from 1631 CE to 1636 CE.
+- **Muhammad al-Asghar ibn Zidan** ruled from 1636 CE to 1655 CE.
+- **Ahmad al-Abbas ibn Muhammad** ruled from 1653 CE to 1659 CE.
 
 The Saadians also had separate rulers in Fez during this period:
 
-* **Muhammad ash-Sheikh al-Ma'mun ibn Ahmad** ruled from 1610 CE to 1613 CE.  
-* **Abdallah al-Wathiq** ruled from 1613 CE to 1624 CE.  
-* **Abd al-Malik ibn Abdallah** ruled from 1624 CE to 1626 CE.
+- **Muhammad ash-Sheikh al-Ma'mun ibn Ahmad** ruled from 1610 CE to 1613 CE.
+- **Abdallah al-Wathiq** ruled from 1613 CE to 1624 CE.
+- **Abd al-Malik ibn Abdallah** ruled from 1624 CE to 1626 CE.
 
 #### **Dila'ite Authority (1659-1663)**
 
 A period of Dila'ite authority briefly emerged:
 
-* **Muhammad al-Hajj al-Dila'i** ruled from 1659 CE to 1663 CE.
+- **Muhammad al-Hajj al-Dila'i** ruled from 1659 CE to 1663 CE.
 
 ### **Alaouite Dynasty (Alawites)**
 
@@ -167,46 +167,46 @@ The Alaouite dynasty, the current ruling family of Morocco, has a long history s
 
 #### **First Era in Tafilalt**
 
-* **Moulay Ali al-Sharif** ruled from 1631 CE to 1635 CE.  
-* **Muhammad ibn Ali al-Sharif** ruled from 1635 CE to 1664 CE.  
-* **Al-Rashid ibn Ali al-Sharif** lived between 1631 and 1672 and ruled from 1664 CE to 1666 CE.
+- **Moulay Ali al-Sharif** ruled from 1631 CE to 1635 CE.
+- **Muhammad ibn Ali al-Sharif** ruled from 1635 CE to 1664 CE.
+- **Al-Rashid ibn Ali al-Sharif** lived between 1631 and 1672 and ruled from 1664 CE to 1666 CE.
 
 #### **Second Era After Unification**
 
-* **Al-Rashid ibn Ali al-Sharif** (second reign) lived between 1631 and 1672 and ruled from 1666 CE to 1672 CE.  
-* **Ismail ibn Ali al-Sharif** lived between 1646 and 1727 and ruled from 1672 CE to 1727 CE.  
-* **Ahmad al-Dhahabi ibn Ismail** lived between 1677 and 1729 and ruled from 1727 CE to 1728 CE.  
-* **Abd al-Malik ibn Ismail** ruled in 1728 CE.  
-* **Ahmad al-Dhahabi ibn Ismail** (second reign) lived between 1677 and 1729 and ruled from 1728 CE to 1729 CE.  
-* **Abdallah ibn Ismail** lived between 1694 and 1757 and ruled from 1729 CE to 1735 CE.  
-* **Ali al-A'raj ibn Ismail** ruled from 1735 CE to 1736 CE.  
-* **Abdallah ibn Ismail** (second reign) lived between 1694 and 1757 and ruled in 1736 CE.  
-* **Moulay Muhammad ibn Ismail** ruled from 1736 CE to 1738 CE.  
-* **Al-Mustadi' ibn Ismail** died in 1759 and ruled from 1738 CE to 1740 CE.  
-* **Abdallah ibn Ismail** (third reign) lived between 1694 and 1757 and ruled from 1740 CE to 1745 CE.  
-* **Ali Zain al-Abidin ibn Ismail** ruled in 1745 CE.  
-* **Abdallah ibn Ismail** (fourth reign) lived between 1694 and 1757 and ruled from 1745 CE to 1757 CE.  
-* **Muhammad III ibn Abdallah** died in 1790 and ruled from 1757 CE to 1790 CE.  
-* **Al-Yazid ibn Muhammad** lived between 1750 and 1792 and ruled from 1790 CE to 1792 CE.  
-* **Hisham ibn Muhammad** died in 1799 and ruled from 1795 CE to 1797 CE.  
-* **Sulaiman ibn Muhammad** lived between 1760 and 1822 and ruled from 1797 CE to 1822 CE.  
-* **Abd al-Rahman ibn Hisham** lived between 1790 and 1859 and ruled from 1822 CE to 1859 CE.  
-* **Muhammad IV ibn Abd al-Rahman** died in 1873 and ruled from 1859 CE to 1873 CE.  
-* **Hassan I ibn Muhammad** lived between 1830 and 1894 and ruled from 1873 CE to 1894 CE.  
-* **Abd al-Aziz ibn Hassan** lived between 1878 and 1943 and ruled from 1894 CE to 1908 CE.
+- **Al-Rashid ibn Ali al-Sharif** (second reign) lived between 1631 and 1672 and ruled from 1666 CE to 1672 CE.
+- **Ismail ibn Ali al-Sharif** lived between 1646 and 1727 and ruled from 1672 CE to 1727 CE.
+- **Ahmad al-Dhahabi ibn Ismail** lived between 1677 and 1729 and ruled from 1727 CE to 1728 CE.
+- **Abd al-Malik ibn Ismail** ruled in 1728 CE.
+- **Ahmad al-Dhahabi ibn Ismail** (second reign) lived between 1677 and 1729 and ruled from 1728 CE to 1729 CE.
+- **Abdallah ibn Ismail** lived between 1694 and 1757 and ruled from 1729 CE to 1735 CE.
+- **Ali al-A'raj ibn Ismail** ruled from 1735 CE to 1736 CE.
+- **Abdallah ibn Ismail** (second reign) lived between 1694 and 1757 and ruled in 1736 CE.
+- **Moulay Muhammad ibn Ismail** ruled from 1736 CE to 1738 CE.
+- **Al-Mustadi' ibn Ismail** died in 1759 and ruled from 1738 CE to 1740 CE.
+- **Abdallah ibn Ismail** (third reign) lived between 1694 and 1757 and ruled from 1740 CE to 1745 CE.
+- **Ali Zain al-Abidin ibn Ismail** ruled in 1745 CE.
+- **Abdallah ibn Ismail** (fourth reign) lived between 1694 and 1757 and ruled from 1745 CE to 1757 CE.
+- **Muhammad III ibn Abdallah** died in 1790 and ruled from 1757 CE to 1790 CE.
+- **Al-Yazid ibn Muhammad** lived between 1750 and 1792 and ruled from 1790 CE to 1792 CE.
+- **Hisham ibn Muhammad** died in 1799 and ruled from 1795 CE to 1797 CE.
+- **Sulaiman ibn Muhammad** lived between 1760 and 1822 and ruled from 1797 CE to 1822 CE.
+- **Abd al-Rahman ibn Hisham** lived between 1790 and 1859 and ruled from 1822 CE to 1859 CE.
+- **Muhammad IV ibn Abd al-Rahman** died in 1873 and ruled from 1859 CE to 1873 CE.
+- **Hassan I ibn Muhammad** lived between 1830 and 1894 and ruled from 1873 CE to 1894 CE.
+- **Abd al-Aziz ibn Hassan** lived between 1878 and 1943 and ruled from 1894 CE to 1908 CE.
 
 #### **Occupation Era**
 
-* **Abd al-Hafiz ibn Hassan** lived between 1875 and 1937 and ruled from 1908 CE to 1912 CE.  
-* **Moulay al-Zayn** lived between 1911 and 1911 and ruled from April 17, 1911, to June 8, 1911\.  
-* **Yusuf ibn Hassan** lived between 1881 and 1927 and ruled from August 13, 1912, to November 17, 1927\.  
-* **Muhammad V ibn Yusuf** lived between 1909 and 1961 and ruled from 1928 CE to 1961 CE.  
-* **Muhammad ibn Arafa** lived between 1886 and 1976 and ruled from August 21, 1953, to October 1, 1955\.
+- **Abd al-Hafiz ibn Hassan** lived between 1875 and 1937 and ruled from 1908 CE to 1912 CE.
+- **Moulay al-Zayn** lived between 1911 and 1911 and ruled from April 17, 1911, to June 8, 1911\.
+- **Yusuf ibn Hassan** lived between 1881 and 1927 and ruled from August 13, 1912, to November 17, 1927\.
+- **Muhammad V ibn Yusuf** lived between 1909 and 1961 and ruled from 1928 CE to 1961 CE.
+- **Muhammad ibn Arafa** lived between 1886 and 1976 and ruled from August 21, 1953, to October 1, 1955\.
 
 #### **Independence Era**
 
-* **Hassan II ibn Muhammad** lived between 1929 and 1999 and ruled from 1961 CE to 1999 CE.  
-* **Muhammad VI ibn Hassan** was born in 1963 and has ruled since 1999 CE, with his reign ongoing.
+- **Hassan II ibn Muhammad** lived between 1929 and 1999 and ruled from 1961 CE to 1999 CE.
+- **Muhammad VI ibn Hassan** was born in 1963 and has ruled since 1999 CE, with his reign ongoing.
 
 Morocco's rich history spans over a thousand years, shaped by a succession of influential dynasties that have left indelible marks on its political, cultural, artistic, and architectural identity. From origins rooted in antiquity, through the arrival of Islam, to the establishment of powerful empires, each ruling family contributed uniquely to the nation's development, enduring periods of prosperity, conflict, and transformation.
 
@@ -220,13 +220,13 @@ The **Idrisid dynasty** was founded by **Idris ibn Abdallah al-Hasan (Idris I)**
 
 After Idris I's death, his son **Idris II**, born to his Amazigh wife Kenza, assumed power in 808 CE. He brought the state to its peak, structuring and organizing the nascent government by establishing new institutions such as the vizierate, secretariat, judiciary, and imamate. Idris II developed **Fez**, his father's foundation, and made it the state capital, attracting immigrants from Kairouan and al-Andalus to foster a new civilization and dilute tribal influences. The Idrisid state became the most significant political entity in the Maghreb al-Aqsa.
 
-Upon Idris II's death in 828 CE, his eldest son, **Muhammad**, divided the kingdom among his brothers as a family inheritance, leading to the emergence of several semi-autonomous regional emirates and internal conflicts. However, the Moroccan populace largely maintained political stability and did not revolt against the Idrisid princes. Historians attribute this to the **deep reverence and sanctity** accorded to the Idrisid family due to their lineage to the Prophet's Household, combined with their integration into Moroccan society through marriage and local customs, ensuring they were not seen as foreign rulers. This popular respect for the *shurafa* (descendants of the Prophet) evolved into a political principle that endures to this day. Later Idrisid rulers like Ali ibn Muhammad and Yahya ibn Muhammad oversaw periods of peace and extensive construction in Fez, including the expansion of the Al-Andalus and Al-Qarawiyyin Mosques.
+Upon Idris II's death in 828 CE, his eldest son, **Muhammad**, divided the kingdom among his brothers as a family inheritance, leading to the emergence of several semi-autonomous regional emirates and internal conflicts. However, the Moroccan populace largely maintained political stability and did not revolt against the Idrisid princes. Historians attribute this to the **deep reverence and sanctity** accorded to the Idrisid family due to their lineage to the Prophet's Household, combined with their integration into Moroccan society through marriage and local customs, ensuring they were not seen as foreign rulers. This popular respect for the _shurafa_ (descendants of the Prophet) evolved into a political principle that endures to this day. Later Idrisid rulers like Ali ibn Muhammad and Yahya ibn Muhammad oversaw periods of peace and extensive construction in Fez, including the expansion of the Al-Andalus and Al-Qarawiyyin Mosques.
 
-The dynasty faced a major external threat from the **Fatimids** of Ifriqiya in the late 9th century, with their general Masala ibn Habbus al-Miknasi defeating Idrisid emir Yahya near Meknes and forcing him into vassalage. Masala's cousin, Musa ibn Abi al-Afiyah, systematically dismantled Idrisid power, forcing them to retreat to the stronghold of Hajar al-Nisr in the Rif Mountains. Caught between the rival Fatimid and Umayyad Caliphates, the last Idrisid ruler, **Al-Hasan ibn Kannun**, shifted allegiances multiple times before being captured and eventually assassinated in 985 CE. Although their formal rule ended after approximately 130 years, their descendants continued to exist through various families, and their legacy lies in establishing the first independent Islamic state in Morocco and fostering a sense of national identity centered around *sharifian* sanctity.
+The dynasty faced a major external threat from the **Fatimids** of Ifriqiya in the late 9th century, with their general Masala ibn Habbus al-Miknasi defeating Idrisid emir Yahya near Meknes and forcing him into vassalage. Masala's cousin, Musa ibn Abi al-Afiyah, systematically dismantled Idrisid power, forcing them to retreat to the stronghold of Hajar al-Nisr in the Rif Mountains. Caught between the rival Fatimid and Umayyad Caliphates, the last Idrisid ruler, **Al-Hasan ibn Kannun**, shifted allegiances multiple times before being captured and eventually assassinated in 985 CE. Although their formal rule ended after approximately 130 years, their descendants continued to exist through various families, and their legacy lies in establishing the first independent Islamic state in Morocco and fostering a sense of national identity centered around _sharifian_ sanctity.
 
 ### **Almoravid Dynasty (1060-1147 CE)**
 
-The **Almoravids**, also known as the "Veiled People" (*al-Mulaththamūn*) from the Sanhaja Berber tribes, emerged as a powerful dynasty after the Idrisids. Their movement began as a reformist Islamic call in the 11th century, initiated by **Sheikh Abdallah ibn Yasin**, a scholar sent to the Juddala tribe in southern Mauritania to teach proper Islamic principles. After initial rejection, Ibn Yasin established a *ribat* (fortified monastery/military outpost) in the Sahara, where he gathered followers, forming a disciplined community committed to jihad. The movement gained significant military strength when **Yahya ibn Umar al-Lamtuni** and later **Abu Bakr ibn Umar al-Lamtuni**, chiefs of the Lamtuna tribe, joined with their entire tribe.
+The **Almoravids**, also known as the "Veiled People" (_al-Mulaththamūn_) from the Sanhaja Berber tribes, emerged as a powerful dynasty after the Idrisids. Their movement began as a reformist Islamic call in the 11th century, initiated by **Sheikh Abdallah ibn Yasin**, a scholar sent to the Juddala tribe in southern Mauritania to teach proper Islamic principles. After initial rejection, Ibn Yasin established a _ribat_ (fortified monastery/military outpost) in the Sahara, where he gathered followers, forming a disciplined community committed to jihad. The movement gained significant military strength when **Yahya ibn Umar al-Lamtuni** and later **Abu Bakr ibn Umar al-Lamtuni**, chiefs of the Lamtuna tribe, joined with their entire tribe.
 
 After Abdallah ibn Yasin's death in 1059 CE, Abu Bakr ibn Umar transformed the movement into the **Almoravid state**, expanding rapidly across vast territories. **Yusuf ibn Tashfin** is credited as the ruler of the Almoravid's golden age. He founded **Marrakesh** in 1070 CE, establishing it as the dynasty's capital and a major political and cultural center of the Islamic West. The Almoravids unified all of present-day Morocco, parts of western Algeria, and Al-Andalus, creating the first unified Moroccan state that stretched from north to south. They constructed numerous religious sites, including mosques like the Koutoubia Mosque, Quranic schools, city walls, and palaces. Moroccans treated the Almoravids with similar reverence and sanctity as the Idrisids.
 
@@ -242,7 +242,7 @@ The **Marinids**, a Zenata Berber tribe, emerged as a significant dynasty after 
 
 In 1269 CE, after several wars, the Marinids defeated the Almohads in Marrakesh, but chose **Fez** as their capital. Their first sultan, **Abu Yusuf Yaqub ibn Abd al-Haqq**, declared independence from the Hafsids and unified Morocco, incorporating Arab tribes to fight against separatist regions. The Marinid state expanded significantly under sultans like Abu Said I and **Abu al-Hasan al-Marini**, who unified the Greater Maghreb under his banner, controlling lands from the Sous and Sahara in the south to Misrata in the east, and Ronda in al-Andalus in the north. To confirm their role as acceptable Islamic rulers, the Marinids sent armies into al-Andalus four times to support the Banu al-Ahmar against the Spanish, conquering cities like Algeciras, Tarifa, Malaga, Ghomara, and Ronda, though many were later ceded.
 
-Internally, the Marinids based their rule on their numerical strength and allied Amazigh and Arab tribal organizations, forming the basis of the **Makhzen** (state administration). They allowed freedom of belief and religious schools, leading to the resurgence of the Maliki *madhhab* that the Almohads had suppressed. They revered the Idrisid *shurafa*, rebuilding the shrine of Moulay Idris and reviving celebrations of the Prophet's birthday. The Marinids also welcomed **Andalusian Jews** who fled al-Andalus. Their era saw significant urban and cultural development, with the construction of new cities like **Fez al-Jadid**, Tetouan, and Mansoura, and the building of madrasas, hospitals, mosques, and *ribats*. Fez became a hub for scholars, historians, and literary figures like Ibn Battuta, Ibn al-Khatib, Ibn Khaldun, and Ibn al-Banna al-Marrakushi.
+Internally, the Marinids based their rule on their numerical strength and allied Amazigh and Arab tribal organizations, forming the basis of the **Makhzen** (state administration). They allowed freedom of belief and religious schools, leading to the resurgence of the Maliki _madhhab_ that the Almohads had suppressed. They revered the Idrisid _shurafa_, rebuilding the shrine of Moulay Idris and reviving celebrations of the Prophet's birthday. The Marinids also welcomed **Andalusian Jews** who fled al-Andalus. Their era saw significant urban and cultural development, with the construction of new cities like **Fez al-Jadid**, Tetouan, and Mansoura, and the building of madrasas, hospitals, mosques, and _ribats_. Fez became a hub for scholars, historians, and literary figures like Ibn Battuta, Ibn al-Khatib, Ibn Khaldun, and Ibn al-Banna al-Marrakushi.
 
 The decline of the Marinid state began after the Portuguese capture of Ceuta in 1415 CE, marked by wars with neighbors, internal strife, power struggles, continuous clashes with Granada, and a lack of a large fleet. The Marinids were finally defeated by the Portuguese in 1465 CE, bringing an end to their rule and solidifying Morocco's contemporary borders.
 
@@ -260,7 +260,7 @@ However, the Saadian state, despite its strong and rapid rise, also experienced 
 
 ### **Alaouite Dynasty (1666-Present)**
 
-The **Alaouite dynasty**, like the Saadians, traces its origins to the Prophet Muhammad's Household. This family, known as the *Sharifian Sijilmasiyyin*, was based in Sijilmasa (founded in 757 CE) in the Tafilalt region. The Alaouite ancestor, **Hasan ibn al-Qasim**, known as Hasan al-Dakhil, settled in Sijilmasa in 1165 CE.
+The **Alaouite dynasty**, like the Saadians, traces its origins to the Prophet Muhammad's Household. This family, known as the _Sharifian Sijilmasiyyin_, was based in Sijilmasa (founded in 757 CE) in the Tafilalt region. The Alaouite ancestor, **Hasan ibn al-Qasim**, known as Hasan al-Dakhil, settled in Sijilmasa in 1165 CE.
 
 In the early 16th century, Morocco was deeply divided into regional political entities. In 1631 CE, **Sharif ibn Ali ibn Muhammad** emerged in the Tafilalt region, and the Alaouite dynasty began its ascent to power in the 17th century, with Sharif ibn Ali declared Sultan of Tafilalt. His goal was to establish the Alaouite state across Morocco. During the reign of **Muhammad I** (1671-1674 CE), challenges from movements seeking revenge for the Saadians were overcome, ending the era of small, feuding political entities. His son, **Al-Rashid** (1672-1674 CE), unified and pacified the country after a long period of division. He was succeeded by his brother, **Moulay Ismail**, whose reign (1672-1727 CE) was one of the longest in Moroccan history, characterized by strong centralized rule. Moulay Ismail reunified Morocco completely, extending its territory from the Mediterranean coast in the north to the Senegal River in the south.
 
@@ -339,13 +339,13 @@ The highest-ranking Portuguese official in Mazagão (El Jadida) in 1552 was Álv
 1757-1763 \- D. José Joaquim Vasques da Cunha  
 1763-1769 \- D. Dinis Gregório de Melo e Castro Mendonça
 
-Actually, there wasn’t a Portuguese official in Azemmour or Safi in 1552, because by that year the Portuguese had already abandoned both places. 
+Actually, there wasn’t a Portuguese official in Azemmour or Safi in 1552, because by that year the Portuguese had already abandoned both places.
 
 Here’s the timeline:
 
-Safi (Safim) was under Portuguese control from 1508 until October 1541, when it was evacuated. 
+Safi (Safim) was under Portuguese control from 1508 until October 1541, when it was evacuated.
 
-Azemmour (Azamor) was held by the Portuguese from 1513 until October 1541 as well.   
+Azemmour (Azamor) was held by the Portuguese from 1513 until October 1541 as well.  
 hpip.org
 
 So in 1552, neither was under Portuguese administration, and thus there was no Portuguese captain, governor, or highest-ranking Portuguese official in those fortresses in that year.
@@ -426,28 +426,28 @@ The history of the Islamic conquest of the Maghrib is a narrative deeply rooted 
 
 The earliest surviving accounts were composed in the 9th century, over two hundred years after the first military expeditions.2 Among the most foundational of these texts is the
 
-*Kitāb Futūḥ al-Buldān* ("Book of the Conquest of the Countries/Lands") by Ahmad ibn Yahya al-Baladhuri (d. 892 CE). This work is a digest of a larger, now-lost history of the Caliphate, compiled by al-Baladhuri who traveled extensively in northern Syria and Mesopotamia to collect traditions.3 The value of his work as a primary source is widely acknowledged, but its accounts have been subject to criticism for a perceived lack of accuracy in detailing events.4 The specific focus of the
+_Kitāb Futūḥ al-Buldān_ ("Book of the Conquest of the Countries/Lands") by Ahmad ibn Yahya al-Baladhuri (d. 892 CE). This work is a digest of a larger, now-lost history of the Caliphate, compiled by al-Baladhuri who traveled extensively in northern Syria and Mesopotamia to collect traditions.3 The value of his work as a primary source is widely acknowledged, but its accounts have been subject to criticism for a perceived lack of accuracy in detailing events.4 The specific focus of the
 
-*Futūḥ al-Buldān* on the administrative policies and legal precedents of the conquests suggests that the historical narrative was being codified to serve the needs of the 9th-century Abbasid state.5 Another pivotal text from this era is the
+_Futūḥ al-Buldān_ on the administrative policies and legal precedents of the conquests suggests that the historical narrative was being codified to serve the needs of the 9th-century Abbasid state.5 Another pivotal text from this era is the
 
-*Futūḥ Miṣr wa'l-Maghrib* by Ibn 'Abd al-Hakam (d. 871 CE).6 It stands as the earliest surviving account of the conquests of Egypt, North Africa, and Spain 7, offering a wealth of information, some of which is unique to this chronicle.8 However, its purpose was primarily to document history for the benefit of Maliki law, and some of the traditions it contains are considered ahistorical or derived from sources known to be unreliable.2
+_Futūḥ Miṣr wa'l-Maghrib_ by Ibn 'Abd al-Hakam (d. 871 CE).6 It stands as the earliest surviving account of the conquests of Egypt, North Africa, and Spain 7, offering a wealth of information, some of which is unique to this chronicle.8 However, its purpose was primarily to document history for the benefit of Maliki law, and some of the traditions it contains are considered ahistorical or derived from sources known to be unreliable.2
 
 Centuries later, beginning in the 12th century, a new and more detailed version of the conquest history was constructed at Kairouan, a narrative later expanded upon and finalized by scholars such as Ibn Idhari and Ibn Khaldun.1 Ibn Idhari al-Marrakushi (d. after 1312 CE) authored
 
-*Al-Bayān al-Mughrib*, a key history of the Maghreb and Al-Andalus.10 His work is particularly valuable for its preservation of excerpts from older, now-lost chronicles, making it an invaluable resource for modern researchers.11 However, these later works, while rich in detail, are also noted for containing "conflicting accounts of events" when compared to earlier versions.2
+_Al-Bayān al-Mughrib_, a key history of the Maghreb and Al-Andalus.10 His work is particularly valuable for its preservation of excerpts from older, now-lost chronicles, making it an invaluable resource for modern researchers.11 However, these later works, while rich in detail, are also noted for containing "conflicting accounts of events" when compared to earlier versions.2
 
 The most distinguished of these later historians is Ibn Khaldun (d. 1406 CE), a polymath from Tunis who is considered a true historian with a critical sense, setting him apart from his predecessors who acted more as chroniclers and annalists.1 His monumental work,
 
-*Al-Ibar* ("Lessons"), provides not only factual material but also a reasoned, philosophical interpretation of the history of the Berbers.1 His famous theory posits that dynasties rise from a vital, nomadic stage and inevitably decline into corruption and weakness as they become sedentary, a framework he applied to the history of North Africa.12
+_Al-Ibar_ ("Lessons"), provides not only factual material but also a reasoned, philosophical interpretation of the history of the Berbers.1 His famous theory posits that dynasties rise from a vital, nomadic stage and inevitably decline into corruption and weakness as they become sedentary, a framework he applied to the history of North Africa.12
 
 The significant time lag between the events of the 7th century and their first written records in the 9th century means the historical accounts are a process of retroactive construction. This process was influenced by the legal and administrative needs of the ruling Caliphates, which sought to legitimize their rule through a codified historical narrative. The absence of a Berber perspective in the written records further highlights this point, presenting the conquest and subsequent resistance as an Arab-Muslim narrative in which the local peoples are protagonists of either conversion or defeat, but not of their own independently recorded history.1
 
-| Historian | Time Period | Key Work(s) | Noteworthy Contribution/Focus | Historiographical Context |
-| :---- | :---- | :---- | :---- | :---- |
-| Ibn 'Abd al-Hakam | 9th Century CE | *Futūḥ Miṣr wa'l-Maghrib* | Earliest surviving account of the conquest; vast quantity of traditions | Written for Maliki law; can be ahistorical |
-| Al-Baladhuri | 9th Century CE | *Futūḥ al-Buldān* | Key primary source on early Islamic history; digest of a larger work | Focus on administrative and legal aspects of conquest |
-| Ibn Idhari | 14th Century CE | *Al-Bayān al-Mughrib* | Preserves excerpts from older, lost works; history of Maghreb and Al-Andalus | Later, more detailed narrative that can conflict with earlier accounts |
-| Ibn Khaldun | 14th Century CE | *Al-Ibar* | Pioneering critical historian; provides a reasoned interpretation of Berber history | Analytical framework on dynastic rise and fall |
+| Historian         | Time Period     | Key Work(s)               | Noteworthy Contribution/Focus                                                       | Historiographical Context                                              |
+| :---------------- | :-------------- | :------------------------ | :---------------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| Ibn 'Abd al-Hakam | 9th Century CE  | _Futūḥ Miṣr wa'l-Maghrib_ | Earliest surviving account of the conquest; vast quantity of traditions             | Written for Maliki law; can be ahistorical                             |
+| Al-Baladhuri      | 9th Century CE  | _Futūḥ al-Buldān_         | Key primary source on early Islamic history; digest of a larger work                | Focus on administrative and legal aspects of conquest                  |
+| Ibn Idhari        | 14th Century CE | _Al-Bayān al-Mughrib_     | Preserves excerpts from older, lost works; history of Maghreb and Al-Andalus        | Later, more detailed narrative that can conflict with earlier accounts |
+| Ibn Khaldun       | 14th Century CE | _Al-Ibar_                 | Pioneering critical historian; provides a reasoned interpretation of Berber history | Analytical framework on dynastic rise and fall                         |
 
 ### **Part I: The Early Campaigns and the First Berber Resistance (c. 647–705 CE)**
 
@@ -463,15 +463,15 @@ Following the death of Kusayla, a final and iconic resistance leader emerged: th
 
 The battles of Kusayla and Dihya al-Kahina were not merely setbacks for the Arabs; they were defining moments in the history of the Maghrib. The initial Arab conquest proved to be a protracted, multi-generational struggle with significant reversals of fortune, not a linear, triumphant march. The tenacious resistance led by these indigenous heroes demonstrates that the Maghrib was not a passive territory to be subdued but a region with a deep-seated tradition of political authority and a fierce sense of autonomy. The narratives surrounding their struggles became powerful symbols of resistance against external forces, foreshadowing how the indigenous population would later use the very ideology of their conquerors to assert their own identity.
 
-| Date (CE) | Key Event | Key Arab Leader | Key Berber/Byzantine Adversary | Outcome/Significance |
-| :---- | :---- | :---- | :---- | :---- |
-| 647 | Battle of Sufetula | Abdallah ibn Sa'd | Count Gregory | Arabs win but withdraw after tribute |
-| 670 | Founding of Kairouan | 'Uqba ibn Nafi' | N/A | Established a permanent Arab base for rule |
-| 681-683 | 'Uqba's Campaign to the Atlantic | 'Uqba ibn Nafi' | Berbers of the Far Maghrib | Reached the Atlantic but failed to secure Tangier |
-| 683 | Battle of Biskra | 'Uqba ibn Nafi' | Kusayla, Byzantine contingent | 'Uqba is killed; Arabs expelled from Ifriqiya |
-| c. 686-690 | Battle of Mams | Zuhayr ibn Qays | Kusayla | Kusayla is defeated and killed; Arabs reoccupy Kairouan |
-| c. 698-702 | Battle near Carthage | Hasan ibn al-Nu'man | Dihya al-Kahina | Dihya is defeated and killed; Arabs secure the region |
-| 705-709 | Completion of the conquest of the Maghrib | Musa ibn Nusayr | Berbers of the Sous and Tangier | Arabs secure Tangier and Sous, completing the conquest of the Maghrib |
+| Date (CE)  | Key Event                                 | Key Arab Leader     | Key Berber/Byzantine Adversary  | Outcome/Significance                                                  |
+| :--------- | :---------------------------------------- | :------------------ | :------------------------------ | :-------------------------------------------------------------------- |
+| 647        | Battle of Sufetula                        | Abdallah ibn Sa'd   | Count Gregory                   | Arabs win but withdraw after tribute                                  |
+| 670        | Founding of Kairouan                      | 'Uqba ibn Nafi'     | N/A                             | Established a permanent Arab base for rule                            |
+| 681-683    | 'Uqba's Campaign to the Atlantic          | 'Uqba ibn Nafi'     | Berbers of the Far Maghrib      | Reached the Atlantic but failed to secure Tangier                     |
+| 683        | Battle of Biskra                          | 'Uqba ibn Nafi'     | Kusayla, Byzantine contingent   | 'Uqba is killed; Arabs expelled from Ifriqiya                         |
+| c. 686-690 | Battle of Mams                            | Zuhayr ibn Qays     | Kusayla                         | Kusayla is defeated and killed; Arabs reoccupy Kairouan               |
+| c. 698-702 | Battle near Carthage                      | Hasan ibn al-Nu'man | Dihya al-Kahina                 | Dihya is defeated and killed; Arabs secure the region                 |
+| 705-709    | Completion of the conquest of the Maghrib | Musa ibn Nusayr     | Berbers of the Sous and Tangier | Arabs secure Tangier and Sous, completing the conquest of the Maghrib |
 
 ### **Part II: The Consolidation of Rule and the Berber Response (c. 705–1050 CE)**
 
@@ -489,19 +489,19 @@ Following the revolt, the Maghrib entered a long period of political fragmentati
 
 The political fragmentation of the Maghrib, which followed the Berber Revolt of 740 CE, was eventually arrested by the rise of a new wave of indigenous Berber dynasties, the most powerful of which were the Almoravids and Almohads. These empires represent the culmination of the processes set in motion by the initial Arab conquest, demonstrating how the Berber peoples absorbed and repurposed the new Islamic ideology to forge their own powerful imperial projects.29
 
-The Almoravid dynasty (*al-Murābiṭūn*, meaning "inmates of a fortified monastery") emerged from the Sanhajah Berber tribes of the Sahara in the mid-11th century.27 Their movement was founded by the religious scholar 'Abd Allah ibn Yasin, who used a militant Islamic revival as a means to unify the tribes and provide a powerful justification for their conquests.15 The Almoravids adhered strictly to the Maliki school of law, which provided the religious legitimacy for their authority.32 From their Saharan base, they conquered the western Maghrib, taking control of key cities like Sijilmasa by 1056\.15 Their military successes were immense, and under their commander Yusuf ibn Tashufin, they went on to conquer most of Muslim Spain by 1110 CE, establishing a vast empire that stretched from the Sahara to the Iberian Peninsula.15 They established their capital in Marrakech, which they built from the ground up, transforming it into a major cultural and economic hub.15
+The Almoravid dynasty (_al-Murābiṭūn_, meaning "inmates of a fortified monastery") emerged from the Sanhajah Berber tribes of the Sahara in the mid-11th century.27 Their movement was founded by the religious scholar 'Abd Allah ibn Yasin, who used a militant Islamic revival as a means to unify the tribes and provide a powerful justification for their conquests.15 The Almoravids adhered strictly to the Maliki school of law, which provided the religious legitimacy for their authority.32 From their Saharan base, they conquered the western Maghrib, taking control of key cities like Sijilmasa by 1056\.15 Their military successes were immense, and under their commander Yusuf ibn Tashufin, they went on to conquer most of Muslim Spain by 1110 CE, establishing a vast empire that stretched from the Sahara to the Iberian Peninsula.15 They established their capital in Marrakech, which they built from the ground up, transforming it into a major cultural and economic hub.15
 
-A century later, the Almoravids were challenged and eventually replaced by a rival Berber dynasty, the Almohads (*al-Muwaḥḥidūn*, meaning "those who affirm the unity of God").30 This movement was founded by Ibn Tumart, a member of the Masmuda Berber tribes from the High Atlas mountains, who preached a reformist message in opposition to what he considered the moral laxity of the Almoravids and their legalistic interpretation of Islam.33 The core principle of Almohad ideology was a radical unitarianism (
+A century later, the Almoravids were challenged and eventually replaced by a rival Berber dynasty, the Almohads (_al-Muwaḥḥidūn_, meaning "those who affirm the unity of God").30 This movement was founded by Ibn Tumart, a member of the Masmuda Berber tribes from the High Atlas mountains, who preached a reformist message in opposition to what he considered the moral laxity of the Almoravids and their legalistic interpretation of Islam.33 The core principle of Almohad ideology was a radical unitarianism (
 
-*tawhid*), which rejected any independent attributes of God as polytheistic.33 Ibn Tumart, who declared himself the Mahdi, organized his followers into a powerful, disciplined force that waged a revolutionary war against the Almoravid state.36
+_tawhid_), which rejected any independent attributes of God as polytheistic.33 Ibn Tumart, who declared himself the Mahdi, organized his followers into a powerful, disciplined force that waged a revolutionary war against the Almoravid state.36
 
 The Almohads ultimately defeated the Almoravids, establishing a vast and centralized empire that would dominate the Maghrib and Al-Andalus for over a century.12 The ascendancy of these two dynasties is a crucial period in the history of the Maghrib, as it represents the full flowering of an indigenous imperial project. The Almoravids and Almohads were not simply extensions of Arab rule; they were new, Berber-led empires that used the framework of Islam to unify the region and assert their own political and cultural dominance.30 The ideological and theological conflicts between them—the Maliki legalism of the Almoravids versus the unitarian reformism of the Almohads—were not just power struggles; they were profound disputes over the very nature of an Islamic state. This dynamic demonstrates that by the 11th and 12th centuries, the Maghrib had become a major center of Islamic thought, capable of producing and exporting its own reformist movements that could challenge and replace existing dynasties.
 
-| Dynasty Name | Founding Date | Founder | Core Ideology | Capital City | Maximum Extent |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| Almoravids | c. 1040 CE | 'Abd Allah ibn Yasin | Strict Maliki school of law | Marrakech | Western Maghrib and Al-Andalus |
-| Almohads | c. 1121 CE | Ibn Tumart | Strict unitarianism (*tawhid*) | Marrakech, Seville, Rabat | Maghrib (to modern Libya) and Al-Andalus |
-| Saadians | c. 1509 CE | Abu Abdallah al-Qaim | Sharifian (descent from Prophet) | Marrakech | Western Maghrib, control of Trans-Saharan trade routes to Gao |
+| Dynasty Name | Founding Date | Founder              | Core Ideology                    | Capital City              | Maximum Extent                                                |
+| :----------- | :------------ | :------------------- | :------------------------------- | :------------------------ | :------------------------------------------------------------ |
+| Almoravids   | c. 1040 CE    | 'Abd Allah ibn Yasin | Strict Maliki school of law      | Marrakech                 | Western Maghrib and Al-Andalus                                |
+| Almohads     | c. 1121 CE    | Ibn Tumart           | Strict unitarianism (_tawhid_)   | Marrakech, Seville, Rabat | Maghrib (to modern Libya) and Al-Andalus                      |
+| Saadians     | c. 1509 CE    | Abu Abdallah al-Qaim | Sharifian (descent from Prophet) | Marrakech                 | Western Maghrib, control of Trans-Saharan trade routes to Gao |
 
 ### **Part IV: The Saadian Sultanate: A New Age of Sharifian Authority (c. 1509–1659 CE)**
 
@@ -524,65 +524,60 @@ I'll search for comprehensive information about the Nekor Kingdom rulers, includ
 ### **First Dynasty Period (710-750)**
 
 1. **Salih I ibn Mansur al-Himyari** (710-749)
+   - Founded the Banū Sālih dynasty in 710 and ruled until 749
+   - Known as "al-Abd as-Salih" (the Pious Servant)
+   - Briefly deposed in favor of az-Zaydi from the Nafza tribe, but was reinstated
 
-   * Founded the Banū Sālih dynasty in 710 and ruled until 749  
-   * Known as "al-Abd as-Salih" (the Pious Servant)  
-   * Briefly deposed in favor of az-Zaydi from the Nafza tribe, but was reinstated  
 2. **al-Mu'tasim ibn Salih** (749-750 or early 750s)
-
-   * Known for being very religious and pious, ruled for a very short period \- only three months  
-   * Led prayers and gave Friday sermons
+   - Known for being very religious and pious, ruled for a very short period \- only three months
+   - Led prayers and gave Friday sermons
 
 ### **Establishment of Nekor City Period (750-803)**
 
 3. **Idris I ibn Salih** (750-760)
+   - Founded the city of Nekor, which would become the capital
+   - Began construction of the city between the Nekor and Ghis rivers
 
-   * Founded the city of Nekor, which would become the capital  
-   * Began construction of the city between the Nekor and Ghis rivers  
 4. **Sa'id I ibn Idris** (760-803)
-
-   * Moved the capital from Temsaman to Nekor  
-   * In his reign, Nekor was sacked by the Vikings in 859, who took many prisoners, a few of whom were ransomed by the Umayyad ruler of Spain  
-   * Part of the Ghomara tribe revolted, led by a person called Segguen; their revolt was defeated
+   - Moved the capital from Temsaman to Nekor
+   - In his reign, Nekor was sacked by the Vikings in 859, who took many prisoners, a few of whom were ransomed by the Umayyad ruler of Spain
+   - Part of the Ghomara tribe revolted, led by a person called Segguen; their revolt was defeated
 
 ### **Period of Expansion and Conflict (803-916)**
 
 5. **Salih II ibn Sa'id** (803-864)
+   - His brother led a revolt against him, but was defeated
 
-   * His brother led a revolt against him, but was defeated  
 6. **Sa'id II ibn Salih** (864-916)
-
-   * His older brother and uncle led an unsuccessful revolt against him, but he was ultimately defeated and killed by the Fatimid general Masala ibn Habus, who conquered the area for six months  
-   * His sons took refuge in Málaga with the Umayyad caliph, and returned once Masala had left the region and successfully expelled his garrison
+   - His older brother and uncle led an unsuccessful revolt against him, but he was ultimately defeated and killed by the Fatimid general Masala ibn Habus, who conquered the area for six months
+   - His sons took refuge in Málaga with the Umayyad caliph, and returned once Masala had left the region and successfully expelled his garrison
 
 ### **Umayyad Allegiance Period (917-929)**
 
 7. **Salih III ibn Sa'id** (917-927)
+   - In gratitude for help against the Fatimids, he acknowledged the Umayyads as the rightful caliphs, thus transferring his nominal allegiance
 
-   * In gratitude for help against the Fatimids, he acknowledged the Umayyads as the rightful caliphs, thus transferring his nominal allegiance  
 8. **Abd al-Badi' ibn Salih "el-Mu'ayyid"** (927-929)
-
-   * He was defeated and killed by another Fatimid general, Musa ibn Abi'l-Afiya, who destroyed Nekor again
+   - He was defeated and killed by another Fatimid general, Musa ibn Abi'l-Afiya, who destroyed Nekor again
 
 ### **Period of Reconstruction and Instability (930-947)**
 
 9. **Abu Ayyub Isma'il ibn 'Abd al Malik ibn Abd ar-Rahman ibn Sa'id I ibn Salih** (930?-935)
+   - The city was rebuilt, but he was defeated and killed by yet another Fatimid general, Sandal the mawla
 
-   * The city was rebuilt, but he was defeated and killed by yet another Fatimid general, Sandal the mawla  
 10. **Musa ibn Rumi ibn Abd as-Sami\` ibn Salih ibn Idris I ibn Salih** (936?-940)
+    - When Sandal departed for Fez, installing a governor called Marmazu of the Kutama tribe, the inhabitants rebelled and installed Musa ibn Rumi
+    - He defeated Marmazu and sent his head to the Umayyad Caliph in Cordoba
+    - However, he was soon exiled by his relative
 
-    * When Sandal departed for Fez, installing a governor called Marmazu of the Kutama tribe, the inhabitants rebelled and installed Musa ibn Rumi  
-    * He defeated Marmazu and sent his head to the Umayyad Caliph in Cordoba  
-    * However, he was soon exiled by his relative  
 11. **Abd as-Sami' ibn Jurthum ibn Idris ibn Salih I ibn Mansur** (940-947)
-
-    * His people rose up and killed him, and then sent for one of his relatives from Málaga
+    - His people rose up and killed him, and then sent for one of his relatives from Málaga
 
 ### **Late Period (947-1019)**
 
-12. **Jurthum ibn Ahmad ibn Ziyadat Allah ibn Sa'id I ibn Idris** (947-970)  
-    * He became the ruler and adopted the Maliki school of Islamic law  
-    * He was a follower of the Maliki school of religious law within Sunni Islam
+12. **Jurthum ibn Ahmad ibn Ziyadat Allah ibn Sa'id I ibn Idris** (947-970)
+    - He became the ruler and adopted the Maliki school of Islamic law
+    - He was a follower of the Maliki school of religious law within Sunni Islam
 
 ### **Final Rulers \- Names Unknown (970-1019)**
 
@@ -598,10 +593,10 @@ I'll search for comprehensive information about the Nekor Kingdom rulers, includ
 
 **Important Notes:**
 
-* All dates are converted from Hijri calendar and may be up to a year out  
-* This chronology is largely based on Ibn Khaldun, whose account is itself based on al-Bakri  
-* The 49-year gap between 970-1019 contains unnamed rulers from Jurthum ibn Ahmad's lineage  
-* Many rulers faced violent ends due to Fatimid invasions, internal revolts, and power struggles
+- All dates are converted from Hijri calendar and may be up to a year out
+- This chronology is largely based on Ibn Khaldun, whose account is itself based on al-Bakri
+- The 49-year gap between 970-1019 contains unnamed rulers from Jurthum ibn Ahmad's lineage
+- Many rulers faced violent ends due to Fatimid invasions, internal revolts, and power struggles
 
 This list fulfills your request for completeness, though authentic historical documentation is lacking for the final decades of the kingdom.
 
@@ -611,15 +606,15 @@ That said, based on standard scholarly sources and the web search results, your 
 
 \#\#\# Core List of Major Polities (Your List, Verified):
 
-1\.  \*\*Barghawata Confederacy\*\* (c. 744 – 1058\)  
-2\.  \*\*Emirate of Sijilmasa (Midrarid Dynasty)\*\* (757 – 976\)  
-3\.  \*\*Kingdom of Nekor\*\* (710 – 1019\)  
-4\.  \*\*Idrisid Dynasty\*\* (788 – 974\)  
-5\.  \*\*Banu Ifran\*\* (c. 830 – 1040s)  
-6\.  \*\*Maghrawa Dynasty\*\* (c. 987 – 1070\)  
-7\.  \*\*Fatimid Caliphate\*\* (Partial rule, intermittent in the 10th century)  
-8\.  \*\*Caliphate of Córdoba\*\* (Partial rule in the far north, 10th–early 11th century)  
-9\.  \*\*Almoravid Dynasty\*\* (1040 – 1147\)  
+1\. \*\*Barghawata Confederacy\*\* (c. 744 – 1058\)  
+2\. \*\*Emirate of Sijilmasa (Midrarid Dynasty)\*\* (757 – 976\)  
+3\. \*\*Kingdom of Nekor\*\* (710 – 1019\)  
+4\. \*\*Idrisid Dynasty\*\* (788 – 974\)  
+5\. \*\*Banu Ifran\*\* (c. 830 – 1040s)  
+6\. \*\*Maghrawa Dynasty\*\* (c. 987 – 1070\)  
+7\. \*\*Fatimid Caliphate\*\* (Partial rule, intermittent in the 10th century)  
+8\. \*\*Caliphate of Córdoba\*\* (Partial rule in the far north, 10th–early 11th century)  
+9\. \*\*Almoravid Dynasty\*\* (1040 – 1147\)  
 10\. \*\*Almohad Caliphate\*\* (1121 – 1269\)  
 11\. \*\*Marinid Dynasty\*\* (1244 – 1465\)  
 12\. \*\*Wattasid Dynasty\*\* (1472 – 1554\)  
@@ -631,14 +626,14 @@ That said, based on standard scholarly sources and the web search results, your 
 
 These are either very short-lived, of highly localized power, or are better understood as components of larger entities already on your list:
 
-\*   \*\*Emirate of Salé (under the Almohads):\*\* Before its famous pirate republic, Salé was a minor Almohad administrative center. It doesn't constitute a separate ruling state.  
-\*   \*\*Various Idrisid Successor States:\*\* After the main Idrisid dynasty fell in 974, several collateral branches held onto small mountainous regions like \*\*Hajar al-Nasr\*\* and \*\*al-Basra\*\* for a few more decades into the 11th century. These were tiny, localized holdouts, not major kingdoms .  
-\*   \*\*The Barghawata’s Rival, the Miknasa (of Sijilmasa):\*\* While the Miknasa tribe was powerful and briefly ruled Sijilmasa after the Midrarids (before the Maghrawa took over), their rule was short and part of the general Zenata-Maghrawa power struggle already covered .
+\* \*\*Emirate of Salé (under the Almohads):\*\* Before its famous pirate republic, Salé was a minor Almohad administrative center. It doesn't constitute a separate ruling state.  
+\* \*\*Various Idrisid Successor States:\*\* After the main Idrisid dynasty fell in 974, several collateral branches held onto small mountainous regions like \*\*Hajar al-Nasr\*\* and \*\*al-Basra\*\* for a few more decades into the 11th century. These were tiny, localized holdouts, not major kingdoms .  
+\* \*\*The Barghawata’s Rival, the Miknasa (of Sijilmasa):\*\* While the Miknasa tribe was powerful and briefly ruled Sijilmasa after the Midrarids (before the Maghrawa took over), their rule was short and part of the general Zenata-Maghrawa power struggle already covered .
 
 \#\#\# Clarifications on Your Original Queries
 
-\*   \*\*Zenata:\*\* This is a tribal confederation, not a state. The Banu Ifran, Maghrawa, Marinids, and Wattasids were all Zenata sub-groups.  
-\*   \*\*Meknasa:\*\* They were a powerful tribe that founded Meknes, but they never established a kingdom that is recognized as a distinct, major polity in the historical record. They were a key part of the Maghrawa and later dynasties.
+\* \*\*Zenata:\*\* This is a tribal confederation, not a state. The Banu Ifran, Maghrawa, Marinids, and Wattasids were all Zenata sub-groups.  
+\* \*\*Meknasa:\*\* They were a powerful tribe that founded Meknes, but they never established a kingdom that is recognized as a distinct, major polity in the historical record. They were a key part of the Maghrawa and later dynasties.
 
 \#\#\# Conclusion
 
@@ -677,11 +672,11 @@ Parliament members from Al Hoceima have demanded the return of archaeological fi
 
 Four tombs of Nekor’s fifteen rulers still exist in the Rif.
 
-* **Salih ibn Mansur’s** shrine lies in **Temsaman**, next to that of his son **al-Mu‘tasim**, who ruled briefly.
+- **Salih ibn Mansur’s** shrine lies in **Temsaman**, next to that of his son **al-Mu‘tasim**, who ruled briefly.
 
-* **Prince Idris**’s tomb is in **Sidi Idris village**, said to have been looted by treasure hunters.
+- **Prince Idris**’s tomb is in **Sidi Idris village**, said to have been looted by treasure hunters.
 
-* Outside Sidi Idris lies the grave of **Sa‘id ibn Idris ibn Salih**, on the roadside.
+- Outside Sidi Idris lies the grave of **Sa‘id ibn Idris ibn Salih**, on the roadside.
 
 ---
 
@@ -782,13 +777,13 @@ Nekor adopted the **Maliki school** from its inception, making it **the first ce
 
 The city’s **Great Mosque**, modeled after Alexandria’s, produced many scholars such as:
 
-* **Ibrahim ibn Ayyub al-Nakkuri**
+- **Ibrahim ibn Ayyub al-Nakkuri**
 
-* **Musa ibn Yasin** (mathematician)
+- **Musa ibn Yasin** (mathematician)
 
-* **Husayn ibn Fath**, grammarian and poet
+- **Husayn ibn Fath**, grammarian and poet
 
-Artists from Nekor were invited to Córdoba by **Caliph Abd al-Rahman III**, including **al-Nakkuri the flutist**, whom **Ibn Hazm** mentions in *Ṭawq al-Ḥamāmah*:
+Artists from Nekor were invited to Córdoba by **Caliph Abd al-Rahman III**, including **al-Nakkuri the flutist**, whom **Ibn Hazm** mentions in _Ṭawq al-Ḥamāmah_:
 
 «فلعهدي بعرس في بعض الشوارع بقربطة ، والنكوري الزامر قاعد في وسط الحفل ... وكان فيما مضى يزمر لعبد الرحمن الناصر...»
 
@@ -803,7 +798,7 @@ Poet **Ibrahim ibn Ayyub** wrote:
  وقد جبت المهامه من نكور  
  إليك بكل ناحية أمون
 
-According to historian **Ahmed al-Tahiri**, author of *“The Emirate of Banu Salih in Nekor”*:
+According to historian **Ahmed al-Tahiri**, author of _“The Emirate of Banu Salih in Nekor”_:
 
 “What later flourished in al-Andalus during the 4th–5th centuries AH in all fields of knowledge owes much to the intellectual foundations first laid in Nekor.”
 
@@ -813,33 +808,33 @@ According to historian **Ahmed al-Tahiri**, author of *“The Emirate of Banu Sa
 
 **Banu Salih in Temsaman:**
 
-* Salih ibn Mansur — 710–750 CE
+- Salih ibn Mansur — 710–750 CE
 
-* al-Mu‘tasim ibn Salih — 750 CE
+- al-Mu‘tasim ibn Salih — 750 CE
 
-* Idris ibn Salih — 750–760 CE
+- Idris ibn Salih — 750–760 CE
 
 **Banu Salih in Nekor:**
 
-* Sa‘id ibn Idris — 760–804 CE
+- Sa‘id ibn Idris — 760–804 CE
 
-* Salih ibn Sa‘id — 804–864 CE
+- Salih ibn Sa‘id — 804–864 CE
 
-* Sa‘id ibn Salih — 864–916 CE
+- Sa‘id ibn Salih — 864–916 CE
 
 **Umayyad-aligned branch (Banu Salih al-Umawiyyin):**
 
-* Salih al-Yateem ibn Sa‘id — 917–927 CE
+- Salih al-Yateem ibn Sa‘id — 917–927 CE
 
-* Abd al-Badi‘ al-Mu’ayyad ibn Salih — 927–929 CE
+- Abd al-Badi‘ al-Mu’ayyad ibn Salih — 927–929 CE
 
-* Abu Ayyub Ismail — 929–932 CE
+- Abu Ayyub Ismail — 929–932 CE
 
-* Musa ibn al-Mu‘tasim — 932–941 CE
+- Musa ibn al-Mu‘tasim — 932–941 CE
 
-* Abd al-Samī‘ ibn Jurthum — 941–948 CE
+- Abd al-Samī‘ ibn Jurthum — 941–948 CE
 
-* Jurthum ibn Ahmad ibn Ziyadat Allah — 948–971 CE
+- Jurthum ibn Ahmad ibn Ziyadat Allah — 948–971 CE
 
 ---
 
@@ -851,24 +846,24 @@ The sources detail the founder's identity, the political circumstances of the fo
 
 The founder of the Emirate of Nekor was **Salih ibn Mansur**. His true identity, however, is subject to conflicting narratives.
 
-* **Claimed Identity:** Many established historical accounts, including the book of Ibn Khaldun, assert that Salih ibn Mansur was of **Himyarite Yemeni descent**. The princes of Nekor, known as Banu Salih, actively advanced this claim of Mashriqi (Eastern) lineage for political reasons. This was a widespread trend (*moda*) among Amazigh tribes in the Middle Ages. Claiming Arab lineage provided stability and durability to their political system, placing the leadership above the tribal and communal rivalries that were prevalent in the second half of the third century AH.  
-* **Local Identity:** The earliest accounts, recorded by the historian Al-Ya'qubi in his *Kitab al-Buldan*, who traveled widely and personally visited the Emirate of Nekor in the third century AH, state that Salih ibn Mansur was a **Nafzi from the local people** (*نفذي من اهل البلد*). The inhabitants of the country confirmed this identity to Al-Ya'qubi. Salih ibn Mansur was from Banu Slaytan, who were inhabitants of Jabal Abi al-Hasan, specifically the Tamsaman بطن.
+- **Claimed Identity:** Many established historical accounts, including the book of Ibn Khaldun, assert that Salih ibn Mansur was of **Himyarite Yemeni descent**. The princes of Nekor, known as Banu Salih, actively advanced this claim of Mashriqi (Eastern) lineage for political reasons. This was a widespread trend (_moda_) among Amazigh tribes in the Middle Ages. Claiming Arab lineage provided stability and durability to their political system, placing the leadership above the tribal and communal rivalries that were prevalent in the second half of the third century AH.
+- **Local Identity:** The earliest accounts, recorded by the historian Al-Ya'qubi in his _Kitab al-Buldan_, who traveled widely and personally visited the Emirate of Nekor in the third century AH, state that Salih ibn Mansur was a **Nafzi from the local people** (_نفذي من اهل البلد_). The inhabitants of the country confirmed this identity to Al-Ya'qubi. Salih ibn Mansur was from Banu Slaytan, who were inhabitants of Jabal Abi al-Hasan, specifically the Tamsaman بطن.
 
 ### **The Founding Event**
 
 Salih ibn Mansur was originally a Muslim who traveled to Ifriqiya (North Africa, east of Morocco) to learn the teachings of Islam.
 
-1. **Religious Mission:** He returned to the land of Nafza to spread Islam among its tribes during the Caliphate of Abd al-Malik ibn Marwan. He was initially sent to the Rif by Hassan ibn al-Nu'man al-Ghassani, the governor of Abd al-Malik ibn Marwan in Ifriqiya, to "open" the Maghreb (between 69 and 79 AH).  
-2. **Shift to Politics:** After the death of Caliph Abd al-Malik ibn Marwan in 86 AH, Salih ibn Mansur shifted his goal from religious proselytization to a **political call** (*الدعوه السياسيه*), deciding suddenly to establish an emirate for himself in Nekor.  
+1. **Religious Mission:** He returned to the land of Nafza to spread Islam among its tribes during the Caliphate of Abd al-Malik ibn Marwan. He was initially sent to the Rif by Hassan ibn al-Nu'man al-Ghassani, the governor of Abd al-Malik ibn Marwan in Ifriqiya, to "open" the Maghreb (between 69 and 79 AH).
+2. **Shift to Politics:** After the death of Caliph Abd al-Malik ibn Marwan in 86 AH, Salih ibn Mansur shifted his goal from religious proselytization to a **political call** (_الدعوه السياسيه_), deciding suddenly to establish an emirate for himself in Nekor.
 3. **Imperial Sanction:** When the successor Caliph, **Al-Walid ibn Abd al-Malik**, was informed that Salih ibn Mansur intended to found an Islamic emirate, he approved the idea and **granted it to him** in the years 91 AH. This event occurred just one year before the conquest of Al-Andalus.
 
 ### **Geopolitical Support and Strategy**
 
 The establishment of Nekor received unusual protection and support from the Umayyad Caliphate, despite the importance of their governor in Ifriqiya, Musa ibn Nusayr.
 
-* Caliph Al-Walid ibn Abd al-Malik issued instructions to Musa ibn Nusayr that he was **not to interfere** with Salih ibn Mansur's Emirate of Nekor, but instead should proceed to the far west of the Maghreb. This policy of non-interference might have also extended to the emirate of Julian al-Ghumari.  
-* The decision to support a Nafzi Berber in establishing an emirate and shielding him from a major governor like Musa ibn Nusayr was influenced by **Tariq ibn Ziyad**.  
-* Tariq ibn Ziyad al-Yiznasni al-Hasi an-Nafzi, who was from the same region and people as Salih ibn Mansur, was planning the **conquest of Al-Andalus**. Tariq supported Salih ibn Mansur in founding the Emirate in Nekor to **pave the way** and ensure the cooperation of the Nafza and Ghomara tribes, who were considered the tribes most knowledgeable about the Iberian Peninsula, for the invasion.
+- Caliph Al-Walid ibn Abd al-Malik issued instructions to Musa ibn Nusayr that he was **not to interfere** with Salih ibn Mansur's Emirate of Nekor, but instead should proceed to the far west of the Maghreb. This policy of non-interference might have also extended to the emirate of Julian al-Ghumari.
+- The decision to support a Nafzi Berber in establishing an emirate and shielding him from a major governor like Musa ibn Nusayr was influenced by **Tariq ibn Ziyad**.
+- Tariq ibn Ziyad al-Yiznasni al-Hasi an-Nafzi, who was from the same region and people as Salih ibn Mansur, was planning the **conquest of Al-Andalus**. Tariq supported Salih ibn Mansur in founding the Emirate in Nekor to **pave the way** and ensure the cooperation of the Nafza and Ghomara tribes, who were considered the tribes most knowledgeable about the Iberian Peninsula, for the invasion.
 
 In summary, the sources suggest that the foundation of Nekor was not just a local uprising but a **strategically sanctioned act** by the Umayyad Caliphate, influenced by Tariq ibn Ziyad, designed to consolidate regional power among loyal local Berber leaders (like Salih ibn Mansur) one year before the launch of the decisive conquest of Spain.
 
@@ -878,25 +873,25 @@ The sources provide extensive material for the analysis of religious beliefs in 
 
 Religious belief, particularly adherence to Islamic principles and descent from the Prophet Muhammad, was the fundamental source of political legitimacy for Moroccan dynasties across centuries:
 
-* **Sharifian Legitimacy:** The **Idrisid dynasty** (788–974) marked the birth of the first autonomous Islamic state in Morocco, established by **Idris ibn Abdallah**, a *Sharifian* (descendant of the Prophet). This set a powerful political model, later successfully revived by the Saadian and Alaouite dynasties, making Sharifian lineage a cornerstone of authority.  
-* ***Jihad*** **as a Mandate for Rule:** The **Saadian dynasty** (1510–1659) based their rise to power on a dual claim: their Sharifian lineage and their leadership of the ***jihad*** (holy war) against the Portuguese occupiers. Their decisive victory at Agadir in 1541 cemented their legitimacy as **national heroes and true defenders of Islam** in the eyes of the populace, in contrast to the Wattasids, who were seen as failing in their religious duty to protect the realm.  
-* **Theological Reform and Zeal:** Earlier Berber empires were also rooted in religious ideologies. The **Almoravid** movement (1040–1147) began as a puritanical religious reform movement established in a *ribat* (fortified religious retreat). The **Almohads** (1121–1269) were founded by **Ibn Tumart**, who declared himself the ***Mahdi*** and preached a radical doctrine of absolute divine unity (*Tawhid*).
+- **Sharifian Legitimacy:** The **Idrisid dynasty** (788–974) marked the birth of the first autonomous Islamic state in Morocco, established by **Idris ibn Abdallah**, a _Sharifian_ (descendant of the Prophet). This set a powerful political model, later successfully revived by the Saadian and Alaouite dynasties, making Sharifian lineage a cornerstone of authority.
+- **_Jihad_** **as a Mandate for Rule:** The **Saadian dynasty** (1510–1659) based their rise to power on a dual claim: their Sharifian lineage and their leadership of the **_jihad_** (holy war) against the Portuguese occupiers. Their decisive victory at Agadir in 1541 cemented their legitimacy as **national heroes and true defenders of Islam** in the eyes of the populace, in contrast to the Wattasids, who were seen as failing in their religious duty to protect the realm.
+- **Theological Reform and Zeal:** Earlier Berber empires were also rooted in religious ideologies. The **Almoravid** movement (1040–1147) began as a puritanical religious reform movement established in a _ribat_ (fortified religious retreat). The **Almohads** (1121–1269) were founded by **Ibn Tumart**, who declared himself the **_Mahdi_** and preached a radical doctrine of absolute divine unity (_Tawhid_).
 
 ## **II. Dominant Islamic Schools and Institutions**
 
 In the 16th century, religious life was deeply structured by established schools of jurisprudence and highly influential Sufi organizations:
 
-* **Maliki Fiqh:** Morocco was predominantly **Sunni Muslim**, adhering to the **Maliki rite**. The Maliki school of law was the **official and dominant** school throughout the Maghreb. Foundational texts of this school, such as Malik ibn Anas's ***al-Muwaṭṭaʾ***, were widely studied.  
-* **Sufism and Marabouts:** Sufism was deeply embedded in Moroccan society, providing a spiritual framework and social cohesion. **Marabouts** (holy men) and *shurafa* held immense spiritual influence due to their perceived possession of ***baraka*** (blessing) and *karāmāt* (supernatural powers). Sufi brotherhoods, or **Zawaya**, served as dynamic centers of devotion, learning, and **popular mobilization** against foreign occupation, particularly when the central government (the Wattasids) proved ineffective.  
-* **Theological and Devotional Texts:** Libraries contained core religious texts, including the foundational sacred text of the ***al-Qurʾān al-Karīm***. Other staples included the revered biography of the Prophet, ***al-Shifāʾ bi-taʿrīf ḥuqūq al-Muṣṭafá*** by Qadi 'Iyad, and the popular devotional prayer book focusing on blessings upon the Prophet, ***Dalāʾil al-Khayrāt*** by al-Jazuli.
+- **Maliki Fiqh:** Morocco was predominantly **Sunni Muslim**, adhering to the **Maliki rite**. The Maliki school of law was the **official and dominant** school throughout the Maghreb. Foundational texts of this school, such as Malik ibn Anas's **_al-Muwaṭṭaʾ_**, were widely studied.
+- **Sufism and Marabouts:** Sufism was deeply embedded in Moroccan society, providing a spiritual framework and social cohesion. **Marabouts** (holy men) and _shurafa_ held immense spiritual influence due to their perceived possession of **_baraka_** (blessing) and _karāmāt_ (supernatural powers). Sufi brotherhoods, or **Zawaya**, served as dynamic centers of devotion, learning, and **popular mobilization** against foreign occupation, particularly when the central government (the Wattasids) proved ineffective.
+- **Theological and Devotional Texts:** Libraries contained core religious texts, including the foundational sacred text of the **_al-Qurʾān al-Karīm_**. Other staples included the revered biography of the Prophet, **_al-Shifāʾ bi-taʿrīf ḥuqūq al-Muṣṭafá_** by Qadi 'Iyad, and the popular devotional prayer book focusing on blessings upon the Prophet, **_Dalāʾil al-Khayrāt_** by al-Jazuli.
 
 ## **III. Contested and Local Belief Systems**
 
 The analysis of religious belief also reveals areas of fierce controversy and the influence of localized, non-formal traditions:
 
-* **The Barghawata Dispute:** The political and ideological rivals of the **Barghawata Confederacy** (which controlled the central Atlantic coast) claimed the state was based on apostasy and heresy (*al-Kufr wa-al-Zandaqa*). Earlier narratives asserted they followed a new religion and their kings claimed prophecy. However, detailed analysis suggests Barghawata was actually on the **Kharijite Safri** denomination. This Mâdhhab (school) rejected the condition that the ruler must be from the Quraysh tribe. Historical accounts describe the Barghawata as having deep respect for the Qur'an and following tenets of Islam, but their political independence and adherence to the strict, puritanical Safri school led opponents to spread rumors of apostasy.  
-* **Aniconism in Art:** Islamic **aniconism**—the avoidance of representing living beings—was a core principle of Saadian art, particularly in religious contexts. Elite architecture, such as the Saadian Tombs, avoided animal or human depictions, focusing instead on abstract, complex geometric patterns (*zellij*) and carved stucco (*muqarnas*). However, this rule was relaxed in the **secular sphere**; Sultan Ahmad al-Mansur commissioned a fountain featuring sculpted figures of a **lion and leopards** for his palace, Dar al-Hana, in part to visually claim the legacy of the Andalusian caliphs, such as the Court of the Lions in the Alhambra.  
-* **Folklore and Resistance:** Popular beliefs included various superstitions. Most significantly, the female mythological figure **Aicha Kandicha** (a *jinn* often associated with water sources and seduction), is linked to a compelling local narrative of **resistance against the Portuguese occupation** near Mazagan. The theory posits that a historical woman from El Jadida (Mazagan) seduced Portuguese soldiers who were then ambushed and killed by Moroccan fighters, transforming Kandicha into a powerful, defiant female archetype against colonialism.
+- **The Barghawata Dispute:** The political and ideological rivals of the **Barghawata Confederacy** (which controlled the central Atlantic coast) claimed the state was based on apostasy and heresy (_al-Kufr wa-al-Zandaqa_). Earlier narratives asserted they followed a new religion and their kings claimed prophecy. However, detailed analysis suggests Barghawata was actually on the **Kharijite Safri** denomination. This Mâdhhab (school) rejected the condition that the ruler must be from the Quraysh tribe. Historical accounts describe the Barghawata as having deep respect for the Qur'an and following tenets of Islam, but their political independence and adherence to the strict, puritanical Safri school led opponents to spread rumors of apostasy.
+- **Aniconism in Art:** Islamic **aniconism**—the avoidance of representing living beings—was a core principle of Saadian art, particularly in religious contexts. Elite architecture, such as the Saadian Tombs, avoided animal or human depictions, focusing instead on abstract, complex geometric patterns (_zellij_) and carved stucco (_muqarnas_). However, this rule was relaxed in the **secular sphere**; Sultan Ahmad al-Mansur commissioned a fountain featuring sculpted figures of a **lion and leopards** for his palace, Dar al-Hana, in part to visually claim the legacy of the Andalusian caliphs, such as the Court of the Lions in the Alhambra.
+- **Folklore and Resistance:** Popular beliefs included various superstitions. Most significantly, the female mythological figure **Aicha Kandicha** (a _jinn_ often associated with water sources and seduction), is linked to a compelling local narrative of **resistance against the Portuguese occupation** near Mazagan. The theory posits that a historical woman from El Jadida (Mazagan) seduced Portuguese soldiers who were then ambushed and killed by Moroccan fighters, transforming Kandicha into a powerful, defiant female archetype against colonialism.
 
 In essence, the analysis of religious belief in Morocco reveals that spiritual authority, expressed through Sharifian lineage and adherence to Islam (often Maliki, infused with Sufi practices), was the **central political currency**, capable of unifying the state and mobilizing military opposition to foreign powers. This framework was flexible enough to accommodate both extreme puritanical movements and rich local traditions and folklore.
 
@@ -906,19 +901,19 @@ The most thorough interpretation of their beliefs concludes that the Barghawata 
 
 ### **The Disputed Claims: Apostasy and Heresy**
 
-Many later historical accounts, primarily associated with the geographers **Ibn Hawqal and Al-Bakri**, claimed that the Barghawata state was based on **apostasy and heresy** (*al-Kufr wa-al-Zandaqa*).
+Many later historical accounts, primarily associated with the geographers **Ibn Hawqal and Al-Bakri**, claimed that the Barghawata state was based on **apostasy and heresy** (_al-Kufr wa-al-Zandaqa_).
 
 These narratives asserted that the Barghawata had founded a **new religion** and that their kings claimed prophecy. These accounts, however, are questioned for several reasons:
 
-1. **Silence of Contemporaries:** Earlier historians and geographers who traveled widely in the Maghreb and were contemporaries of the Barghawata state, such as Al-Ya'qubi (who visited Morocco in the third century AH), Al-Idrisi, Ibn Abd al-Hakam, and Al-Maqdisi, **never mentioned** the existence of a new Barghawata religion or claims of apostasy. This silence is considered significant, as such claims would be too serious to omit.  
-2. **Contradictions and Feasibility:** The stories told by Ibn Hawqal and Al-Bakri contained contradictions regarding who founded the religion. Furthermore, the claim that the religion remained hidden for approximately a century (as suggested by Al-Bakri's narrative) is considered "unreasonable" (*ghayr ma'qul*) in the history of faiths.  
+1. **Silence of Contemporaries:** Earlier historians and geographers who traveled widely in the Maghreb and were contemporaries of the Barghawata state, such as Al-Ya'qubi (who visited Morocco in the third century AH), Al-Idrisi, Ibn Abd al-Hakam, and Al-Maqdisi, **never mentioned** the existence of a new Barghawata religion or claims of apostasy. This silence is considered significant, as such claims would be too serious to omit.
+2. **Contradictions and Feasibility:** The stories told by Ibn Hawqal and Al-Bakri contained contradictions regarding who founded the religion. Furthermore, the claim that the religion remained hidden for approximately a century (as suggested by Al-Bakri's narrative) is considered "unreasonable" (_ghayr ma'qul_) in the history of faiths.
 3. **Lack of Doctrinal Conflict:** The historical confrontations between the Barghawata and the Idrisids were primarily political, waged **"for the purpose of unifying Morocco,"** and were **not based on doctrinal differences**.
 
 ### **The Safri Kharijite Conclusion**
 
 The analysis suggests that the belief that the Barghawata were apostates was a false rumor spread by their enemies to discredit them, likely stemming from their opposition to mainstream Islamic politics.
 
-The truth, supported by detailed analysis, is that the Barghawata were **free Amazigh Muslims** (*Muslimin min al-Saffriyyah al-Khawarij*) who were strict in their beliefs and followed the doctrines of the Kharijite Safri school.
+The truth, supported by detailed analysis, is that the Barghawata were **free Amazigh Muslims** (_Muslimin min al-Saffriyyah al-Khawarij_) who were strict in their beliefs and followed the doctrines of the Kharijite Safri school.
 
 This adherence had profound political implications: the Safri school **rejected the condition that the ruler must be from the Quraysh tribe**. This allowed their local Berber leadership to assert political independence and reject the authority of Arab-Sharifian dynasties like the Idrisids and the Umayyads, though they did maintain complex relationships of **friendship and respect** with the Umayyads of Córdoba.
 
@@ -926,12 +921,12 @@ This adherence had profound political implications: the Safri school **rejected 
 
 The Barghawata were characterized by intense piety and a stringent approach to worship:
 
-* **Asceticism:** They were described as adherents of **piety and asceticism** (*al-taqallul wa-al-zuhd*).  
-* **Respect for Islam:** They **did not deny the prophecy of Muhammad**, confirming that he was truthful in the *Qur'an* and its rulings. Sources confirm that people among the Barghawata read the Qur'an with "utmost respect".  
-* **Prayer:** They were notably stricter in their ritual practices than Maliki Sunnis, observing **five prayers during the day and five prayers during the night**.  
-* **Strictness and Punishment:** Their strictness extended to law and punishment, where they would **kill a thief** rather than merely amputate his hand.
+- **Asceticism:** They were described as adherents of **piety and asceticism** (_al-taqallul wa-al-zuhd_).
+- **Respect for Islam:** They **did not deny the prophecy of Muhammad**, confirming that he was truthful in the _Qur'an_ and its rulings. Sources confirm that people among the Barghawata read the Qur'an with "utmost respect".
+- **Prayer:** They were notably stricter in their ritual practices than Maliki Sunnis, observing **five prayers during the day and five prayers during the night**.
+- **Strictness and Punishment:** Their strictness extended to law and punishment, where they would **kill a thief** rather than merely amputate his hand.
 
-The rumors that their leaders claimed prophecy likely arose because the Barghawata engaged in local divination (*kahanah*), studied astrology (*'ilm al-nujum*), and philosophy (dialectic/ *kalam*), leading local, less-educated people to mistakenly view them as prophets.
+The rumors that their leaders claimed prophecy likely arose because the Barghawata engaged in local divination (_kahanah_), studied astrology (_'ilm al-nujum_), and philosophy (dialectic/ _kalam_), leading local, less-educated people to mistakenly view them as prophets.
 
 In summary, the most reliable conclusion is that the Barghawata were **devout, strict, independent Muslims** of the Kharijite Safri school, and the accounts describing them as heretics or apostates were politically motivated exaggerations used by their dynastic and ideological rivals.
 
@@ -950,22 +945,22 @@ Thank you for this nuanced and well-argued exposition. Your synthesis offers a c
 The "heresy" narrative is likely a \*\*polemical distortion\*\* by political and religious opponents. Instead, the Barghawata were \*\*orthodox within their own Islamic framework\*\*—specifically, the \*\*Sufriyya branch of Kharijism\*\*.
 
 \#\#\#\#\# \*\*Key Evidence for the Sufri Kharijite Identity\*\*  
-1\. \*\*Silence of Earlier Authorities\*\*    
-   Contemporary or near-contemporary historians—\*\*Al-Ya‘qubi\*\* (visited Morocco in 278 AH / 891 CE), \*\*Al-Idrisi\*\*, \*\*Ibn ‘Abd al-Ḥakam\*\*, and \*\*Al-Maqdisi\*\*—\*\*never mention\*\* Barghawata apostasy. Such a grave accusation would be unlikely to go unrecorded if true.
+1\. \*\*Silence of Earlier Authorities\*\*  
+ Contemporary or near-contemporary historians—\*\*Al-Ya‘qubi\*\* (visited Morocco in 278 AH / 891 CE), \*\*Al-Idrisi\*\*, \*\*Ibn ‘Abd al-Ḥakam\*\*, and \*\*Al-Maqdisi\*\*—\*\*never mention\*\* Barghawata apostasy. Such a grave accusation would be unlikely to go unrecorded if true.
 
-2\. \*\*Political, Not Doctrinal, Conflicts\*\*    
-   Struggles with the \*\*Idrisids\*\* were about \*\*territorial control and unification of Morocco\*\*, not theological disputes—suggesting shared (or at least compatible) religious foundations.
+2\. \*\*Political, Not Doctrinal, Conflicts\*\*  
+ Struggles with the \*\*Idrisids\*\* were about \*\*territorial control and unification of Morocco\*\*, not theological disputes—suggesting shared (or at least compatible) religious foundations.
 
-3\. \*\*Kharijite Safri Doctrine Aligns with Barghawata Practice\*\*    
-   \- \*\*Rejection of Qurayshi Caliphate\*\*: The Sufri Kharijites believed leadership should go to the most pious Muslim, \*\*regardless of tribe\*\*—enabling Berber self-rule.  
-   \- \*\*Strict Asceticism and Piety\*\*: The Barghawata’s reported rigor in prayer (10 daily prayers), harsh penalties (death for theft), and ascetic lifestyle mirror known Kharijite tendencies.  
-   \- \*\*Affirmation of Muḥammad’s Prophethood\*\*: They \*\*did not deny Islam\*\*; rather, they upheld the Qur’an with “utmost respect.”
+3\. \*\*Kharijite Safri Doctrine Aligns with Barghawata Practice\*\*  
+ \- \*\*Rejection of Qurayshi Caliphate\*\*: The Sufri Kharijites believed leadership should go to the most pious Muslim, \*\*regardless of tribe\*\*—enabling Berber self-rule.  
+ \- \*\*Strict Asceticism and Piety\*\*: The Barghawata’s reported rigor in prayer (10 daily prayers), harsh penalties (death for theft), and ascetic lifestyle mirror known Kharijite tendencies.  
+ \- \*\*Affirmation of Muḥammad’s Prophethood\*\*: They \*\*did not deny Islam\*\*; rather, they upheld the Qur’an with “utmost respect.”
 
-4\. \*\*Origin of the “Prophecy” Myth\*\*    
-   Barghawata elites’ engagement in \*\*astrology\*\*, \*\*divination\*\* (\*kahanah\*), and \*\*dialectical theology\*\* (\*kalām\*) may have been misinterpreted by outsiders as claims of new prophecy—a common medieval polemical trope against heterodox groups.
+4\. \*\*Origin of the “Prophecy” Myth\*\*  
+ Barghawata elites’ engagement in \*\*astrology\*\*, \*\*divination\*\* (\*kahanah\*), and \*\*dialectical theology\*\* (\*kalām\*) may have been misinterpreted by outsiders as claims of new prophecy—a common medieval polemical trope against heterodox groups.
 
-5\. \*\*Diplomatic Relations\*\*    
-   Their \*\*cordial ties with the Umayyads of Córdoba\*\* (a Sunni power) further undermine the idea of complete religious apostasy; such alliances would be improbable with a non-Muslim entity.
+5\. \*\*Diplomatic Relations\*\*  
+ Their \*\*cordial ties with the Umayyads of Córdoba\*\* (a Sunni power) further undermine the idea of complete religious apostasy; such alliances would be improbable with a non-Muslim entity.
 
 \---
 
@@ -980,20 +975,20 @@ Based on the historical records available, the names of Jurthum ibn Ahmad's sons
 
 The most detailed genealogical information comes from a family tree of the Salihid Emirs. It shows that Jurthum ibn Ahmad was the son of a man named Ahmad ibn Zidayat Allah, and he had at least one known cousin, Musa ibn Rumi, who also briefly ruled as emir. This tree clearly illustrates Jurthum's place within the wider dynasty but does not extend to show his children.
 
-| Relationship | Figure | Notes |  
-| :--- | :--- | :--- |  
-| \*\*Grandfather\*\* | Zidayat Allah ibn Sa'id | Part of the ruling line |  
-| \*\*Father\*\* | Ahmad ibn Zidayat Allah | Not listed as an emir |  
-| \*\*Ruler (Cousin)\*\* | Musa ibn Rumi (r. 936-940) | Grandson of Abd al-Sami' ibn Salih |  
-| \*\*Ruler\*\* | \*\*Jurthum ibn Ahmad (r. 947-970)\*\* | The last well-documented emir of the dynasty |
+| Relationship           | Figure                                 | Notes                                        |
+| :--------------------- | :------------------------------------- | :------------------------------------------- |
+| \*\*Grandfather\*\*    | Zidayat Allah ibn Sa'id                | Part of the ruling line                      |
+| \*\*Father\*\*         | Ahmad ibn Zidayat Allah                | Not listed as an emir                        |
+| \*\*Ruler (Cousin)\*\* | Musa ibn Rumi (r. 936-940)             | Grandson of Abd al-Sami' ibn Salih           |
+| \*\*Ruler\*\*          | \*\*Jurthum ibn Ahmad (r. 947-970)\*\* | The last well-documented emir of the dynasty |
 
 \#\#\# 🔍 How to Look for More Clues
 
 Tracing specific medieval genealogies can be challenging. If you wish to continue this research, here are a few suggestions:
 
-\*   \*\*Consult Primary Chronicles\*\*: The most promising leads would be in medieval Arabic chronicles. The works of historians like \*\*Ibn Khaldun\*\* and \*\*al-Bakri\*\* are directly cited as sources for this period and might contain more nuanced details not included in modern summaries.  
-\*   \*\*Refine Your Search\*\*: Try searching specifically in Arabic for phrases like "بنو صالح" (Banu Salih) or "ابناء جرثوم بن أحمد" (the sons of Jurthum ibn Ahmad). Primary sources, when available, are often not fully translated and remain in their original language.  
-\*   \*\*Manage Expectations\*\*: Be prepared that this information may be lost to history. For many lesser-known dynasties, the historical record is fragmentary, and the names of non-ruling descendants were often not systematically recorded.
+\* \*\*Consult Primary Chronicles\*\*: The most promising leads would be in medieval Arabic chronicles. The works of historians like \*\*Ibn Khaldun\*\* and \*\*al-Bakri\*\* are directly cited as sources for this period and might contain more nuanced details not included in modern summaries.  
+\* \*\*Refine Your Search\*\*: Try searching specifically in Arabic for phrases like "بنو صالح" (Banu Salih) or "ابناء جرثوم بن أحمد" (the sons of Jurthum ibn Ahmad). Primary sources, when available, are often not fully translated and remain in their original language.  
+\* \*\*Manage Expectations\*\*: Be prepared that this information may be lost to history. For many lesser-known dynasties, the historical record is fragmentary, and the names of non-ruling descendants were often not systematically recorded.
 
 I hope this helps clarify the available information for your research. Would you like me to help search for the titles of the historical books written by Ibn Khaldun or al-Bakri that mention the Emirate of Nekor?
 
@@ -1002,7 +997,7 @@ Berber Revolt
 (740)  
 tamsna
 
-Perfect — that’s the one that really *cracks the empire*. It’s basically the Maghrebi version of “the peasants storm the Death Star,” only with Zenata cavalry, Kharijite zeal, and sandstorms instead of TIE fighters.
+Perfect — that’s the one that really _cracks the empire_. It’s basically the Maghrebi version of “the peasants storm the Death Star,” only with Zenata cavalry, Kharijite zeal, and sandstorms instead of TIE fighters.
 
 Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** — with everything you need for historical fidelity, game-level design, and character/narrative depth.
 
@@ -1015,28 +1010,28 @@ Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** 
  **Main Opponent:** Umayyad Caliphate (governors of Ifriqiya & al-Andalus)  
  **Spark:**
 
-* Berbers, recently Islamized, were treated as second-class Muslims.
+- Berbers, recently Islamized, were treated as second-class Muslims.
 
-* The Umayyad governor **ʿUbayd Allah ibn al-Ḥabḥāb** imposed **the jizya (non-Muslim tax)** on them, seized lands, and enslaved captives even when they were Muslims.
+- The Umayyad governor **ʿUbayd Allah ibn al-Ḥabḥāb** imposed **the jizya (non-Muslim tax)** on them, seized lands, and enslaved captives even when they were Muslims.
 
-* Berber tribes finally snapped — uniting under tribal and religious banners (mostly **Sufrite Kharijites**) demanding equality under Islam and freedom from Arab domination.
+- Berber tribes finally snapped — uniting under tribal and religious banners (mostly **Sufrite Kharijites**) demanding equality under Islam and freedom from Arab domination.
 
 ---
 
 ## **⚔️ II. Timeline & Major Phases**
 
-| Year | Key Event | Notes |
-| ----- | ----- | ----- |
-| **739 CE (late)** | Growing unrest in Tangier & Sous (Morocco) | ʿUbayd Allah’s officials overtax Berbers; local preachers spread Sufrite ideology of equality. |
-| **740 CE (early)** | **Maysara al-Matghari** proclaimed leader in Tangier | Commoner (possibly water-carrier or shepherd). Symbol of social rebellion; name means “the victorious one.” |
-| **740 CE (mid)** | Maysara leads attacks on Umayyad garrisons | Tangier and surrounding forts fall. Rapid spread west to Fes & Rif region. |
-| **740 CE (late)** | Maysara executed by his own commanders | He was seen as too lenient or incompetent; replaced by **Khalid ibn Hamid al-Zanati**, a seasoned Zenata commander. |
-| **741 CE** | **Battle of the Nobles (Maʿrakat al-Ashrāf)** | Near Tangier or Wadi Chelif. Berber victory; most Arab noble cavalry killed. |
-| **741 CE (late)** | **Syrian army** dispatched by Caliph Hisham ibn ʿAbd al-Malik\*\* | 30,000 elite troops under **Kulthum ibn Iyad al-Qushayri** with **Balj ibn Bishr** leading advance guard; joined by 40,000 local Arabs in Ifriqiya. |
-| **742 CE (early)** | **Battle of Bagdoura (near Sebou River, Fes region)** | Decisive Berber victory. Khalid ibn Hamid annihilates the Syrian-Ifriqiyan army; commanders killed. Survivors flee north to Ceuta. |
-| **742 CE (mid)** | Syrian survivors cross to al-Andalus | They bring the chaos into Spain, sparking Arab factional wars there. |
-| **742–743 CE** | **Battle of al-Asnam (near Chlef)** | Umayyads regroup under **Handhala ibn Safwan** (new governor of Ifriqiya). He crushes remaining Berber armies (\~300,000 claimed) and retakes Kairouan. |
-| **743 CE (late)** | Revolt collapses in Ifriqiya | The rebellion fractures into tribal sects. Western Maghreb effectively breaks off from Umayyad control — paving the way for independent Berber dynasties. |
+| Year               | Key Event                                                         | Notes                                                                                                                                                     |
+| ------------------ | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **739 CE (late)**  | Growing unrest in Tangier & Sous (Morocco)                        | ʿUbayd Allah’s officials overtax Berbers; local preachers spread Sufrite ideology of equality.                                                            |
+| **740 CE (early)** | **Maysara al-Matghari** proclaimed leader in Tangier              | Commoner (possibly water-carrier or shepherd). Symbol of social rebellion; name means “the victorious one.”                                               |
+| **740 CE (mid)**   | Maysara leads attacks on Umayyad garrisons                        | Tangier and surrounding forts fall. Rapid spread west to Fes & Rif region.                                                                                |
+| **740 CE (late)**  | Maysara executed by his own commanders                            | He was seen as too lenient or incompetent; replaced by **Khalid ibn Hamid al-Zanati**, a seasoned Zenata commander.                                       |
+| **741 CE**         | **Battle of the Nobles (Maʿrakat al-Ashrāf)**                     | Near Tangier or Wadi Chelif. Berber victory; most Arab noble cavalry killed.                                                                              |
+| **741 CE (late)**  | **Syrian army** dispatched by Caliph Hisham ibn ʿAbd al-Malik\*\* | 30,000 elite troops under **Kulthum ibn Iyad al-Qushayri** with **Balj ibn Bishr** leading advance guard; joined by 40,000 local Arabs in Ifriqiya.       |
+| **742 CE (early)** | **Battle of Bagdoura (near Sebou River, Fes region)**             | Decisive Berber victory. Khalid ibn Hamid annihilates the Syrian-Ifriqiyan army; commanders killed. Survivors flee north to Ceuta.                        |
+| **742 CE (mid)**   | Syrian survivors cross to al-Andalus                              | They bring the chaos into Spain, sparking Arab factional wars there.                                                                                      |
+| **742–743 CE**     | **Battle of al-Asnam (near Chlef)**                               | Umayyads regroup under **Handhala ibn Safwan** (new governor of Ifriqiya). He crushes remaining Berber armies (\~300,000 claimed) and retakes Kairouan.   |
+| **743 CE (late)**  | Revolt collapses in Ifriqiya                                      | The rebellion fractures into tribal sects. Western Maghreb effectively breaks off from Umayyad control — paving the way for independent Berber dynasties. |
 
 ---
 
@@ -1044,12 +1039,12 @@ Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** 
 
 ### **🔸 Berber Rebels**
 
-| Leader | Tribe / Role | Ideology / Traits |
-| ----- | ----- | ----- |
-| **Maysara al-Matghari** | Matghara tribe | Charismatic populist; started the revolt. Possibly executed by his peers. |
-| **Khalid ibn Hamid al-Zanati** | Zenata confederation | Skilled general; led at Bagdoura; rallied diverse tribes. |
-| **ʿAbd al-Wāḥid ibn Yazīd al-Hawwari** | Hawwara tribes | Later Sufrite preacher-leader in eastern Maghreb. |
-| **ʿUqasha ibn Ayyūb al-Fazari** | (Arab Kharijite) ally | Acted as ideological mentor for some Berber units. |
+| Leader                                 | Tribe / Role          | Ideology / Traits                                                         |
+| -------------------------------------- | --------------------- | ------------------------------------------------------------------------- |
+| **Maysara al-Matghari**                | Matghara tribe        | Charismatic populist; started the revolt. Possibly executed by his peers. |
+| **Khalid ibn Hamid al-Zanati**         | Zenata confederation  | Skilled general; led at Bagdoura; rallied diverse tribes.                 |
+| **ʿAbd al-Wāḥid ibn Yazīd al-Hawwari** | Hawwara tribes        | Later Sufrite preacher-leader in eastern Maghreb.                         |
+| **ʿUqasha ibn Ayyūb al-Fazari**        | (Arab Kharijite) ally | Acted as ideological mentor for some Berber units.                        |
 
 **Estimated strength:**  
  At the revolt’s height, chroniclers cite **100,000 – 200,000 Berber fighters**, though actual organized troops were probably closer to 40–60 thousand.  
@@ -1059,21 +1054,21 @@ Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** 
 
 ### **🔸 Umayyad Caliphate**
 
-| Commander | Region / Force | Notes |
-| ----- | ----- | ----- |
-| **ʿUbayd Allah ibn al-Habhab** | Governor of Ifriqiya | Oppressive policies triggered revolt. |
-| **Khalid ibn Abi Habib al-Fihri** | Local Arab noble | Killed at Battle of the Nobles (740). |
-| **Kulthum ibn Iyad al-Qushayri** | Syrian commander | Sent by Caliph; killed at Bagdoura (741). |
-| **Balj ibn Bishr al-Qushayri** | Syrian advance guard; later enters al-Andalus | Survived Bagdoura; led Syrian remnants into Iberia. |
-| **Handhala ibn Safwan al-Kalbi** | Appointed 742 to Ifriqiya | Reasserted control at al-Asnam; decisive in ending revolt in east. |
+| Commander                         | Region / Force                                | Notes                                                              |
+| --------------------------------- | --------------------------------------------- | ------------------------------------------------------------------ |
+| **ʿUbayd Allah ibn al-Habhab**    | Governor of Ifriqiya                          | Oppressive policies triggered revolt.                              |
+| **Khalid ibn Abi Habib al-Fihri** | Local Arab noble                              | Killed at Battle of the Nobles (740).                              |
+| **Kulthum ibn Iyad al-Qushayri**  | Syrian commander                              | Sent by Caliph; killed at Bagdoura (741).                          |
+| **Balj ibn Bishr al-Qushayri**    | Syrian advance guard; later enters al-Andalus | Survived Bagdoura; led Syrian remnants into Iberia.                |
+| **Handhala ibn Safwan al-Kalbi**  | Appointed 742 to Ifriqiya                     | Reasserted control at al-Asnam; decisive in ending revolt in east. |
 
 **Estimated strength:**
 
-* Ifriqiyan regulars: 30–40 k
+- Ifriqiyan regulars: 30–40 k
 
-* Syrian reinforcements: 30 k (elite, heavily armored)
+- Syrian reinforcements: 30 k (elite, heavily armored)
 
-* Arab tribal militias in Andalus and Tunisia: 10–20 k  
+- Arab tribal militias in Andalus and Tunisia: 10–20 k  
    → Total potential: \~80–90 k
 
 ---
@@ -1082,59 +1077,53 @@ Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** 
 
 ### **1\. Battle of the Nobles (740 CE)**
 
-* **Location:** Near Wadi Chelif or Tangier (sources differ)
+- **Location:** Near Wadi Chelif or Tangier (sources differ)
 
-* **Forces:**
+- **Forces:**
+  - Berbers: \~20–40 k
 
-  * Berbers: \~20–40 k
+  - Umayyads: \~10–15 k Arab nobles under Khalid ibn Abi Habib
 
-  * Umayyads: \~10–15 k Arab nobles under Khalid ibn Abi Habib
+- **Outcome:**
+  - Umayyad elite cavalry wiped out; entire Arab aristocracy of the Maghreb decimated.
 
-* **Outcome:**
-
-  * Umayyad elite cavalry wiped out; entire Arab aristocracy of the Maghreb decimated.
-
-  * Berber morale skyrocketed; rebellion spread like wildfire.
+  - Berber morale skyrocketed; rebellion spread like wildfire.
 
 ---
 
 ### **2\. Battle of Bagdoura (741 CE)**
 
-* **Location:** Near Sebou River, close to modern Fes.
+- **Location:** Near Sebou River, close to modern Fes.
 
-* **Forces:**
+- **Forces:**
+  - Berbers: 100–200 k (many lightly armed tribal levies)
 
-  * Berbers: 100–200 k (many lightly armed tribal levies)
+  - Umayyads: 70 k (30 k Syrians \+ 40 k locals)
 
-  * Umayyads: 70 k (30 k Syrians \+ 40 k locals)
+- **Outcome:**
+  - Total Umayyad defeat; Kulthum ibn Iyad and most officers killed.
 
-* **Outcome:**
+  - Remaining 10–12 k Syrians flee to Ceuta, then to al-Andalus.
 
-  * Total Umayyad defeat; Kulthum ibn Iyad and most officers killed.
+  - Result: Umayyad rule west of Ifriqiya collapses completely.
 
-  * Remaining 10–12 k Syrians flee to Ceuta, then to al-Andalus.
-
-  * Result: Umayyad rule west of Ifriqiya collapses completely.
-
-* **Tactical Note:** Berbers used **ambush tactics**, **river traps**, and **guerrilla flanking** on unfamiliar terrain — textbook asymmetric victory.
+- **Tactical Note:** Berbers used **ambush tactics**, **river traps**, and **guerrilla flanking** on unfamiliar terrain — textbook asymmetric victory.
 
 ---
 
 ### **3\. Battle of al-Asnam (742 CE)**
 
-* **Location:** Near modern Chlef (Algeria).
+- **Location:** Near modern Chlef (Algeria).
 
-* **Forces:**
+- **Forces:**
+  - Berbers: “300 k” claimed (likely 60–80 k).
 
-  * Berbers: “300 k” claimed (likely 60–80 k).
+  - Umayyads: 10–12 k elite troops under Handhala ibn Safwan.
 
-  * Umayyads: 10–12 k elite troops under Handhala ibn Safwan.
+- **Outcome:**
+  - Decisive Umayyad victory; Berbers massacred; revolt contained east of the Maghreb.
 
-* **Outcome:**
-
-  * Decisive Umayyad victory; Berbers massacred; revolt contained east of the Maghreb.
-
-  * Marked the **end of the Great Revolt** as a unified movement.
+  - Marked the **end of the Great Revolt** as a unified movement.
 
 ---
 
@@ -1143,10 +1132,9 @@ Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** 
 1. **Collapse of Umayyad authority in the western Maghreb** — Morocco effectively becomes independent.
 
 2. Rise of new **Berber Islamic states**:
+   - **Barghawata Confederation** (Atlantic plains, 744 CE)
 
-   * **Barghawata Confederation** (Atlantic plains, 744 CE)
-
-   * **Midrarid (Sijilmasa)** and later **Rustamid (Tahert)** dynasties.
+   - **Midrarid (Sijilmasa)** and later **Rustamid (Tahert)** dynasties.
 
 3. **Power vacuum** in al-Andalus: Syrian troops bring their internal feuds, triggering civil wars.
 
@@ -1156,47 +1144,46 @@ Let’s break it down cleanly for **The Great Berber Revolt (c. 740–743 CE)** 
 
 ## **🧭 VI. Locations for Map / Level Design**
 
-| Region | Key Sites | Visual/Environmental Notes |
-| ----- | ----- | ----- |
-| **Tangier–Fes Corridor** | Tangier, Sebou River, Bagdoura plains | Lush valleys, river crossings, pre-Islamic ruins. Ideal for open-field battles. |
-| **Atlas Mountains & Rif** | Tribal homelands of Zenata & Matghara | Mountain ambushes, narrow passes, fortified villages. |
-| **Ifriqiya (Tunisia/Algeria)** | Kairouan, Chlef (al-Asnam) | Arid steppe, desert campaigns; final large-scale battlefields. |
-| **Ceuta & Strait Zone** | Refuge of Syrian survivors | Coastal fortress environments — perfect for naval/escape missions. |
+| Region                         | Key Sites                             | Visual/Environmental Notes                                                      |
+| ------------------------------ | ------------------------------------- | ------------------------------------------------------------------------------- |
+| **Tangier–Fes Corridor**       | Tangier, Sebou River, Bagdoura plains | Lush valleys, river crossings, pre-Islamic ruins. Ideal for open-field battles. |
+| **Atlas Mountains & Rif**      | Tribal homelands of Zenata & Matghara | Mountain ambushes, narrow passes, fortified villages.                           |
+| **Ifriqiya (Tunisia/Algeria)** | Kairouan, Chlef (al-Asnam)            | Arid steppe, desert campaigns; final large-scale battlefields.                  |
+| **Ceuta & Strait Zone**        | Refuge of Syrian survivors            | Coastal fortress environments — perfect for naval/escape missions.              |
 
 ---
 
 ## **🧠 VII. Ideological & Cultural Layer**
 
-* **Religion:** Sufrite Kharijism – fiercely egalitarian, rejecting Arab superiority.
+- **Religion:** Sufrite Kharijism – fiercely egalitarian, rejecting Arab superiority.
 
-* **Tribal Ethos:** Honor, independence, alliance through necessity not hierarchy.
+- **Tribal Ethos:** Honor, independence, alliance through necessity not hierarchy.
 
-* **Moral Theme for storytelling:** “Faith without justice is tyranny.”
+- **Moral Theme for storytelling:** “Faith without justice is tyranny.”
 
-* **Visual cues:** Early Islamic banners (plain black/white cloth), Berber leather armor, oval shields, long javelins, simple swords.
+- **Visual cues:** Early Islamic banners (plain black/white cloth), Berber leather armor, oval shields, long javelins, simple swords.
 
-* **Language texture:** Arabic-Berber mix — early Maghrebi Arabic, Zenata dialects, Qur’anic invocations blended with Amazigh idioms.
-
----
-
-## **🎮 VIII. Adaptation Hooks (for *Omniversify*)**
-
-* **Prologue Mission:** Tax revolt in Tangier – stealth infiltration of Umayyad fort.
-
-* **Act I:** Rise of Maysara – recruit tribes, skirmish with tax collectors, siege Tangier.
-
-* **Act II:** Betrayal & leadership shift – Khalid ibn Hamid takes command.
-
-* **Act III:** Massive open-battle scenario – Battle of Bagdoura.
-
-* **Act IV:** Epilogue in Ifriqiya – dwindling unity, final stand at al-Asnam.
-
-* **Legacy cutscene:** Birth of Barghawata state, Berber scholars chanting “La hukm illa lillah” (“Judgment belongs only to God”) as torches light the mountains.
+- **Language texture:** Arabic-Berber mix — early Maghrebi Arabic, Zenata dialects, Qur’anic invocations blended with Amazigh idioms.
 
 ---
 
-Would you like me to create a **full structured historical dossier** (with timeline chart, troop compositions, political map, and character profiles) for this revolt — formatted for integration into *Omniversify* lore or UE5 world-building documents?
+## **🎮 VIII. Adaptation Hooks (for _Omniversify_)**
 
+- **Prologue Mission:** Tax revolt in Tangier – stealth infiltration of Umayyad fort.
+
+- **Act I:** Rise of Maysara – recruit tribes, skirmish with tax collectors, siege Tangier.
+
+- **Act II:** Betrayal & leadership shift – Khalid ibn Hamid takes command.
+
+- **Act III:** Massive open-battle scenario – Battle of Bagdoura.
+
+- **Act IV:** Epilogue in Ifriqiya – dwindling unity, final stand at al-Asnam.
+
+- **Legacy cutscene:** Birth of Barghawata state, Berber scholars chanting “La hukm illa lillah” (“Judgment belongs only to God”) as torches light the mountains.
+
+---
+
+Would you like me to create a **full structured historical dossier** (with timeline chart, troop compositions, political map, and character profiles) for this revolt — formatted for integration into _Omniversify_ lore or UE5 world-building documents?
 
 Creating a comprehensive spreadsheet with **detailed, year-by-year chronologies of every ruler** for all 15 Moroccan states—alongside a full list of their internal and external battles—is an **enormous scholarly undertaking** that exceeds the scope of a single response. The primary reason is a **severe lack of reliable, continuous data**, especially for the early medieval period.
 
@@ -1206,29 +1193,30 @@ However, I can provide you with a **structured framework** for your spreadsheet,
 
 ### Framework for Your Spreadsheet
 
-| # | State / Dynasty | Ruling Period (State) | Known Rulers & Their Reigns (Partial/Complete) | Key Internal Conflicts | Key External Conflicts / Liberation Wars |
-|---|------------------|------------------------|-----------------------------------------------|------------------------|------------------------------------------|
-| 1 | Kingdom of Nekor | 710 – 1019 | **Incomplete list**. Founders: Salih I ibn Mansur. Last ruler: Ya'la ibn Futuh, killed by Hammudids in 1019 [[1]]. | Conflicts with neighboring Berber tribes and the Caliphate of Córdoba [[1]]. | N/A |
-| 2 | Emirate of Sijilmasa (Midrarid) | 757 – 976 | **Incomplete**. Founded by Isa ibn Mazyad al-Aswad. Fell to the Maghrawa in 976 [[2]]. | Internal Kharijite sectarian strife. | Conquered by the Maghrawa (a Berber rival) [[2]]. |
-| 3 | Idrisid Dynasty | 788 – 974 | **Partially known**: Idris I (788–791), Idris II (791–828), ... Final ruler: Al-Hasan ibn al-Qasim in 974 [[3]]. | Frequent succession disputes. | Fell to the Fatimids (briefly) and later Umayyads [[3]]. |
-| 4 | Barghawata Confederacy | c. 744 – 1058 | **Only early rulers known**: Ṣāliḥ ibn Ṭarīf (founder), Ilyās, Yūnus, Abū Ghufail (last known, d. 913). **No rulers known for 913–1058** [[4]]. | N/A | Fiercely resisted Fatimids, Umayyads of Córdoba, and was **finally destroyed by the Almoravids in 1058** [[4]]. |
-| 5 | Banu Ifran | c. 830 – 1040s | **Fragmented rule**. Key leader: Abu al-Qasim ibn Ifran, who ruled in Tlemcen and briefly in Fez (late 10th c.) [[5]]. | Constant warfare with the Maghrawa for control of Fez. | Defeated and absorbed by the Almoravids in the 1040s [[5]]. |
-| 6 | Maghrawa Dynasty | c. 987 – 1070 | **Partially known**: Ziri ibn Atiyya (r. 987–1001), his successors ruled Fez until **conquered by Almoravids in 1070** [[6]]. | War with Banu Ifran and other Zenata groups. | Conquered by the Almoravids [[6]]. |
-| 7 | Fatimid Caliphate (Partial rule) | Intermittent (927–937, 974–987) | Caliphs: Al-Qa’im, Al-Mansur, etc. (ruled from Ifriqiya/Egypt) [[7]]. | N/A | Conquered parts of northern Morocco from Idrisids; later pushed out by Umayyads and Zenata tribes [[7]]. |
-| 8 | Caliphate of Córdoba (Partial rule) | 929 – 1031 (in northern Morocco) | Caliphs: Abd al-Rahman III, Al-Hakam II, etc. [[8]]. | N/A | Controlled northern forts; lost influence after 1009 (Fitna of al-Andalus) [[8]]. |
-| 9 | Almoravid Dynasty | 1040 – 1147 | **Known rulers**: Yahya ibn Umar (1040–1055), Abu Bakr ibn Umar (1055–1072), Yusuf ibn Tashfin (1072–1106), Ali ibn Yusuf (1106–1143) [[9]]. | N/A | **Conquered Barghawata (1058)**, Maghrawa (1070), and unified Morocco. Fought Christians in Iberia (Battle of Sagrajas, 1086). |
-| 10 | Almohad Caliphate | 1121 – 1269 | **Known rulers**: Ibn Tumart (spiritual founder), Abd al-Mu’min (1130–1163), Abu Yaqub Yusuf (1163–1184), etc. [[10]]. | Suppressed Almoravid loyalists. | **Liberated southern Iberia** from Christians (temporarily); defeated at Las Navas de Tolosa (1212). |
-| 11 | Marinid Dynasty | 1244 – 1465 | **List available**: Abu Yahya (1244–1258), Abu Yusuf Yaqub (1258–1286), Abu al-Hasan (1331–1351), etc. [[11]]. | Revolts in Tlemcen and internal coups. | Engaged in **reconquest attempts in Iberia**; built the city of Fes el-Jdid. |
-| 12 | Wattasid Dynasty | 1472 – 1554 | **Partially known**: Muhammad ibn Yahya (1472–1505), successors weakened by Portuguese and Saadian rise [[12]]. | Civil wars with local tribes. | **Lost coastal cities to Portuguese** (e.g., Ceuta, Tangier). Failed to resist European encroachment. |
-| 13 | Saadi Dynasty | 1549 – 1659 | **Key rulers**: Muhammad al-Shaykh (1549–1557), Abd al-Malik (1576–1578), Ahmad al-Mansur (1578–1603) [[13]]. | Civil war after al-Mansur’s death. | **Liberation War against Portugal**: **Battle of Ksar el-Kebir (1578)** destroyed Portuguese army. **Reconquered Agadir (1541), Azemmour, Safi, etc.** from Portuguese [[13]]. |
-| 14 | Republic of Salé | c. 1627 – 1666 | **No single ruler**. Governed by a council of corsair captains (e.g., Jan Janszoon) [[14]]. | Internal power struggles among corsairs. | Raided European shipping; fought Spanish and Portuguese navies. **Conquered by Alawis in 1666**. |
-| 15 | Alawi Dynasty | 1666 – Present | **Long list**: Moulay Rashid (1666–1672), Ismail (1672–1727), ... to Mohammed VI [[15]]. | Multiple succession crises and tribal revolts. | **Liberated Larache (1689) from Spain**. Later, **resisted French/Spanish colonization** (20th c.). |
+| #   | State / Dynasty                     | Ruling Period (State)            | Known Rulers & Their Reigns (Partial/Complete)                                                                                                  | Key Internal Conflicts                                                       | Key External Conflicts / Liberation Wars                                                                                                                                       |
+| --- | ----------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Kingdom of Nekor                    | 710 – 1019                       | **Incomplete list**. Founders: Salih I ibn Mansur. Last ruler: Ya'la ibn Futuh, killed by Hammudids in 1019 [[1]].                              | Conflicts with neighboring Berber tribes and the Caliphate of Córdoba [[1]]. | N/A                                                                                                                                                                            |
+| 2   | Emirate of Sijilmasa (Midrarid)     | 757 – 976                        | **Incomplete**. Founded by Isa ibn Mazyad al-Aswad. Fell to the Maghrawa in 976 [[2]].                                                          | Internal Kharijite sectarian strife.                                         | Conquered by the Maghrawa (a Berber rival) [[2]].                                                                                                                              |
+| 3   | Idrisid Dynasty                     | 788 – 974                        | **Partially known**: Idris I (788–791), Idris II (791–828), ... Final ruler: Al-Hasan ibn al-Qasim in 974 [[3]].                                | Frequent succession disputes.                                                | Fell to the Fatimids (briefly) and later Umayyads [[3]].                                                                                                                       |
+| 4   | Barghawata Confederacy              | c. 744 – 1058                    | **Only early rulers known**: Ṣāliḥ ibn Ṭarīf (founder), Ilyās, Yūnus, Abū Ghufair (last known, d. 913). **No rulers known for 913–1058** [[4]]. | N/A                                                                          | Fiercely resisted Fatimids, Umayyads of Córdoba, and was **finally destroyed by the Almoravids in 1058** [[4]].                                                                |
+| 5   | Banu Ifran                          | c. 830 – 1040s                   | **Fragmented rule**. Key leader: Abu al-Qasim ibn Ifran, who ruled in Tlemcen and briefly in Fez (late 10th c.) [[5]].                          | Constant warfare with the Maghrawa for control of Fez.                       | Defeated and absorbed by the Almoravids in the 1040s [[5]].                                                                                                                    |
+| 6   | Maghrawa Dynasty                    | c. 987 – 1070                    | **Partially known**: Ziri ibn Atiyya (r. 987–1001), his successors ruled Fez until **conquered by Almoravids in 1070** [[6]].                   | War with Banu Ifran and other Zenata groups.                                 | Conquered by the Almoravids [[6]].                                                                                                                                             |
+| 7   | Fatimid Caliphate (Partial rule)    | Intermittent (927–937, 974–987)  | Caliphs: Al-Qa’im, Al-Mansur, etc. (ruled from Ifriqiya/Egypt) [[7]].                                                                           | N/A                                                                          | Conquered parts of northern Morocco from Idrisids; later pushed out by Umayyads and Zenata tribes [[7]].                                                                       |
+| 8   | Caliphate of Córdoba (Partial rule) | 929 – 1031 (in northern Morocco) | Caliphs: Abd al-Rahman III, Al-Hakam II, etc. [[8]].                                                                                            | N/A                                                                          | Controlled northern forts; lost influence after 1009 (Fitna of al-Andalus) [[8]].                                                                                              |
+| 9   | Almoravid Dynasty                   | 1040 – 1147                      | **Known rulers**: Yahya ibn Umar (1040–1055), Abu Bakr ibn Umar (1055–1072), Yusuf ibn Tashfin (1072–1106), Ali ibn Yusuf (1106–1143) [[9]].    | N/A                                                                          | **Conquered Barghawata (1058)**, Maghrawa (1070), and unified Morocco. Fought Christians in Iberia (Battle of Sagrajas, 1086).                                                 |
+| 10  | Almohad Caliphate                   | 1121 – 1269                      | **Known rulers**: Ibn Tumart (spiritual founder), Abd al-Mu’min (1130–1163), Abu Yaqub Yusuf (1163–1184), etc. [[10]].                          | Suppressed Almoravid loyalists.                                              | **Liberated southern Iberia** from Christians (temporarily); defeated at Las Navas de Tolosa (1212).                                                                           |
+| 11  | Marinid Dynasty                     | 1244 – 1465                      | **List available**: Abu Yahya (1244–1258), Abu Yusuf Yaqub (1258–1286), Abu al-Hasan (1331–1351), etc. [[11]].                                  | Revolts in Tlemcen and internal coups.                                       | Engaged in **reconquest attempts in Iberia**; built the city of Fes el-Jdid.                                                                                                   |
+| 12  | Wattasid Dynasty                    | 1472 – 1554                      | **Partially known**: Muhammad ibn Yahya (1472–1505), successors weakened by Portuguese and Saadian rise [[12]].                                 | Civil wars with local tribes.                                                | **Lost coastal cities to Portuguese** (e.g., Ceuta, Tangier). Failed to resist European encroachment.                                                                          |
+| 13  | Saadi Dynasty                       | 1549 – 1659                      | **Key rulers**: Muhammad al-Shaykh (1549–1557), Abd al-Malik (1576–1578), Ahmad al-Mansur (1578–1603) [[13]].                                   | Civil war after al-Mansur’s death.                                           | **Liberation War against Portugal**: **Battle of Ksar el-Kebir (1578)** destroyed Portuguese army. **Reconquered Agadir (1541), Azemmour, Safi, etc.** from Portuguese [[13]]. |
+| 14  | Republic of Salé                    | c. 1627 – 1666                   | **No single ruler**. Governed by a council of corsair captains (e.g., Jan Janszoon) [[14]].                                                     | Internal power struggles among corsairs.                                     | Raided European shipping; fought Spanish and Portuguese navies. **Conquered by Alawis in 1666**.                                                                               |
+| 15  | Alawi Dynasty                       | 1666 – Present                   | **Long list**: Moulay Rashid (1666–1672), Ismail (1672–1727), ... to Mohammed VI [[15]].                                                        | Multiple succession crises and tribal revolts.                               | **Liberated Larache (1689) from Spain**. Later, **resisted French/Spanish colonization** (20th c.).                                                                            |
 
 ---
 
 ### Critical Notes:
+
 - **Gaps Exist**: For early states (Nekor, Sijilmasa, Barghawata, Banu Ifran), **full lists of rulers with exact dates do not survive** in historical records.
 - **"Liberation" Context**: Before the 15th century, conflicts were mostly **inter-tribal or dynastic**, not "national liberation." The **Saadian-Portuguese wars** (16th c.) are the clearest example of a campaign to **free Moroccan coastal cities from European occupation**.
-- **Sources**: This framework draws on standard references like *The Cambridge History of Africa*, Ibn Khaldun’s *Muqaddimah*, Al-Bakri’s *Masalik*, and modern scholarship.
+- **Sources**: This framework draws on standard references like _The Cambridge History of Africa_, Ibn Khaldun’s _Muqaddimah_, Al-Bakri’s _Masalik_, and modern scholarship.
 
 You can build your spreadsheet from this structure, and for states with incomplete ruler lists, you can mark cells as “Unknown” or “Fragmentary Records.” Let me know if you’d like help sourcing ruler lists for specific dynasties (e.g., full Marinid or Alawi lists).
