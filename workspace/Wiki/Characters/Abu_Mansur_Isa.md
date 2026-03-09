@@ -29,12 +29,12 @@ Abu Mansur Isa ibn Abi al-Ansar (c. 939 – c. 983 CE) was the sixth ruler of th
 
 ### Full Name Breakdown
 
-| Component | Arabic | Meaning | Notes |
-|-----------|--------|---------|-------|
-| **Abu Mansur** | أبو المنصور | "Father of the Victorious" | Kunya (teknonym); indicates his son was named "Mansur" |
-| **Isa** | عيسى | "Jesus" (Arabic form of Hebrew Yeshua) | Given name; biblical resonance |
-| **ibn** | ابن | "son of" | Patronymic marker |
-| **Abi al-Ansar** | أبي الأنصار | "Father of the Helpers" | Father's kunya |
+| Component        | Arabic      | Meaning                                | Notes                                                  |
+| ---------------- | ----------- | -------------------------------------- | ------------------------------------------------------ |
+| **Abu Mansur**   | أبو المنصور | "Father of the Victorious"             | Kunya (teknonym); indicates his son was named "Mansur" |
+| **Isa**          | عيسى        | "Jesus" (Arabic form of Hebrew Yeshua) | Given name; biblical resonance                         |
+| **ibn**          | ابن         | "son of"                               | Patronymic marker                                      |
+| **Abi al-Ansar** | أبي الأنصار | "Father of the Helpers"                | Father's kunya                                         |
 
 ### Name Variations
 
@@ -49,13 +49,13 @@ The name **Isa** (Jesus) carries significant religious weight, particularly give
 
 ## Dates & Vital Statistics
 
-| Event | Date | CE | Notes |
-|-------|------|-----|-------|
-| **Born** | c. 939 | — | Tamesna region; son of Abu al-Ansar Abdullah |
-| **Succeeded Father** | 961 | — | Inherited at age 22 |
-| **Embassy to Córdoba** | 963 | — | Sent envoys to Caliph al-Hakam II |
-| **Died** | c. 983 | — | Killed in battle during Zirid conquest |
-| **Reign** | 961–983 | — | ~22 years |
+| Event                  | Date    | CE  | Notes                                        |
+| ---------------------- | ------- | --- | -------------------------------------------- |
+| **Born**               | c. 939  | —   | Tamesna region; son of Abu al-Ansar Abdullah |
+| **Succeeded Father**   | 961     | —   | Inherited at age 22                          |
+| **Embassy to Córdoba** | 963     | —   | Sent envoys to Caliph al-Hakam II            |
+| **Died**               | c. 983  | —   | Killed in battle during Zirid conquest       |
+| **Reign**              | 961–983 | —   | ~22 years                                    |
 
 ---
 
@@ -69,34 +69,34 @@ At age 22, when his father died in 961, Abu Mansur inherited a mature confederat
 
 ### Family Relations
 
-| Relation | Name | Status | Notes |
-|----------|------|--------|-------|
-| **Father** | **Abu al-Ansar Abdullah** | Deceased 961 | Fifth ruler; 44-year reign |
-| **Son** | **Mansur** | Unknown | After whom he took kunya |
-| **Grandfather** | **Abu Ghufail** | Deceased 913 | Fourth ruler; consolidator |
-| **Great-Grandfather** | **Yunus ibn Ilyas** | Deceased 888 | Third ruler; revolutionary |
+| Relation              | Name                      | Status       | Notes                      |
+| --------------------- | ------------------------- | ------------ | -------------------------- |
+| **Father**            | **Abu al-Ansar Abdullah** | Deceased 961 | Fifth ruler; 44-year reign |
+| **Son**               | **Mansur**                | Unknown      | After whom he took kunya   |
+| **Grandfather**       | **Abu Ghufair**           | Deceased 913 | Fourth ruler; consolidator |
+| **Great-Grandfather** | **Yunus ibn Ilyas**       | Deceased 888 | Third ruler; revolutionary |
 
 ### Ethnicity & Identity
 
-| Attribute | Details |
-|-----------|---------|
-| **Primary Ethnicity** | Masmuda Berber |
-| **Language(s)** | Tamazight (native), Arabic (learned) |
-| **Cultural Affiliation** | Atlantic Coast Berber (Tamesna) |
-| **Religious Affiliation** | Barghawata faith (established) |
+| Attribute                 | Details                              |
+| ------------------------- | ------------------------------------ |
+| **Primary Ethnicity**     | Masmuda Berber                       |
+| **Language(s)**           | Tamazight (native), Arabic (learned) |
+| **Cultural Affiliation**  | Atlantic Coast Berber (Tamesna)      |
+| **Religious Affiliation** | Barghawata faith (established)       |
 
 ---
 
 ## Chronological Timeline
 
-| Year | CE | Event | Significance |
-|------|-----|-------|--------------|
-| c. | 939 | Birth of Abu Mansur Isa | Son of Abu al-Ansar Abdullah |
-| | 961 | Succeeded father as ruler | Age 22; youthful succession |
-| | 963 | Embassy to Córdoba | Diplomatic contact with Umayyads |
-| | 979 | Zirid invasion begins | Buluggin ibn Ziri leads campaign |
-| | 979–983 | War with Zirids | Multiple battles |
-| c. | 983 | Death in battle | Killed; only ruler to die in combat |
+| Year | CE      | Event                     | Significance                        |
+| ---- | ------- | ------------------------- | ----------------------------------- |
+| c.   | 939     | Birth of Abu Mansur Isa   | Son of Abu al-Ansar Abdullah        |
+|      | 961     | Succeeded father as ruler | Age 22; youthful succession         |
+|      | 963     | Embassy to Córdoba        | Diplomatic contact with Umayyads    |
+|      | 979     | Zirid invasion begins     | Buluggin ibn Ziri leads campaign    |
+|      | 979–983 | War with Zirids           | Multiple battles                    |
+| c.   | 983     | Death in battle           | Killed; only ruler to die in combat |
 
 ---
 
@@ -108,28 +108,28 @@ At age 22, when his father died in 961, Abu Mansur inherited a mature confederat
 
 **Major Contemporary Events:**
 
-| Event | Date | Relationship |
-|-------|------|--------------|
+| Event                        | Date    | Relationship                                       |
+| ---------------------------- | ------- | -------------------------------------------------- |
 | Umayyad Caliphate of Córdoba | 912–976 | Peak power under Abd al-Rahman III and al-Hakam II |
-| Zirid expansion westward | 979–983 | Fatimid-aligned invasion |
-| Almoravid movement begins | c. 1050 | Future existential threat |
+| Zirid expansion westward     | 979–983 | Fatimid-aligned invasion                           |
+| Almoravid movement begins    | c. 1050 | Future existential threat                          |
 
 ### Contemporary Figures
 
-| Figure | Relationship | Nature |
-|--------|-------------|--------|
-| **Abu al-Ansar Abdullah** | Father | Previous ruler |
-| **Al-Hakam II** | Contemporary | Umayyad Caliph of Córdoba (961–976) |
-| **Hisham II** | Contemporary | Umayyad Caliph (976–1009) |
-| **Buluggin ibn Ziri** | Enemy | Zirid commander who killed him |
+| Figure                    | Relationship | Nature                              |
+| ------------------------- | ------------ | ----------------------------------- |
+| **Abu al-Ansar Abdullah** | Father       | Previous ruler                      |
+| **Al-Hakam II**           | Contemporary | Umayyad Caliph of Córdoba (961–976) |
+| **Hisham II**             | Contemporary | Umayyad Caliph (976–1009)           |
+| **Buluggin ibn Ziri**     | Enemy        | Zirid commander who killed him      |
 
 ### Geographic Context
 
 **Primary Regions:**
 
-| Region | Role | Period |
-|--------|------|--------|
-| **Tamesna** | Power base | Lifelong |
+| Region             | Role               | Period       |
+| ------------------ | ------------------ | ------------ |
+| **Tamesna**        | Power base         | Lifelong     |
 | **Atlantic Coast** | Defended territory | Under threat |
 
 ---
@@ -169,6 +169,7 @@ The Zirid conquest (979–983) posed an existential threat:
 Abu Mansur Isa became the **only Barghawata ruler to die in combat against a foreign invader**. According to sources from the Zirid expedition, he was killed fighting against Buluggin ibn Ziri's forces.
 
 **Key details:**
+
 - Killed in battle, not by assassination or natural causes
 - Died defending his territory against the Zirid invasion
 - His death created a succession crisis
@@ -188,11 +189,11 @@ Following his death, the historical record becomes murky:
 
 ### Primary Position
 
-| Position | Faction | Period | Notes |
-|----------|---------|--------|-------|
-| **King** | Barghawata Confederacy | 961–983 | Sixth ruler |
-| **Military Leader** | Defense against Zirids | 979–983 | Died in combat |
-| **Diplomat** | External relations | 961–976 | Sent 963 embassy |
+| Position            | Faction                | Period  | Notes            |
+| ------------------- | ---------------------- | ------- | ---------------- |
+| **King**            | Barghawata Confederacy | 961–983 | Sixth ruler      |
+| **Military Leader** | Defense against Zirids | 979–983 | Died in combat   |
+| **Diplomat**        | External relations     | 961–976 | Sent 963 embassy |
 
 ### Governance Philosophy
 
@@ -245,7 +246,7 @@ Scholars see him as a transitional figure—competent enough to send successful 
 ### Characters
 
 - [[Wiki/Characters/Abu_al-Ansar_Abdullah]] — Father; 44-year reign
-- [[Wiki/Characters/Abu_Ghufail]] — Grandfather; consolidator
+- [[Wiki/Characters/Abu_Ghufair]] — Grandfather; consolidator
 - [[Wiki/Characters/Yunus_ibn_Ilyas]] — Great-grandfather; revolutionary
 
 ### Events
@@ -279,12 +280,12 @@ Abu Mansur Isa represents the **tragic young king**—a ruler who inherited at t
 
 ### Media Potential
 
-| Medium | Suitability | Notes |
-|--------|-------------|-------|
-| **Video Game** | High | Young ruler mechanics; tragic death in battle; defense quests |
-| **Film/Television** | Medium | Youth succession drama; battle scenes |
-| **Novel/Book** | High | Character study of young leadership |
-| **Documentary** | Medium | Military history; Zirid invasion |
+| Medium              | Suitability | Notes                                                         |
+| ------------------- | ----------- | ------------------------------------------------------------- |
+| **Video Game**      | High        | Young ruler mechanics; tragic death in battle; defense quests |
+| **Film/Television** | Medium      | Youth succession drama; battle scenes                         |
+| **Novel/Book**      | High        | Character study of young leadership                           |
+| **Documentary**     | Medium      | Military history; Zirid invasion                              |
 
 ### Archetype
 
@@ -303,8 +304,8 @@ Abu Mansur Isa represents the **tragic young king**—a ruler who inherited at t
 
 ### Primary Historical Sources
 
-- **Ibn Khaldun, *History of the Berbers***: Notes his reign and death
-- **al-Bakri, *Geographic Compendium***: Describes Barghawata practices
+- **Ibn Khaldun, _History of the Berbers_**: Notes his reign and death
+- **al-Bakri, _Geographic Compendium_**: Describes Barghawata practices
 
 ### Secondary Sources
 
@@ -320,20 +321,20 @@ Abu Mansur Isa represents the **tragic young king**—a ruler who inherited at t
 
 ## Appendix: Seven Kings (Complete)
 
-| King # | Ruler | Reign | Status |
-|--------|-------|-------|--------|
-| 1 | Salih ibn Tarif | 744–791 | The "prophet" |
-| 2 | Ilyas ibn Salih | 791–842 | Kept secret |
-| 3 | Yunus ibn Ilyas | 842–888 | The revealer |
-| 4 | Abu Ghufail | 888–913 | The consolidator |
-| 5 | Abu al-Ansar Abdullah | 917–961 | The diplomat |
-| **6** | **Abu Mansur Isa** | **961–983** | **Died in battle** |
-| **7** | **[Anonymous rulers]** | **983–1058** | **Final period; prophecy failed** |
+| King # | Ruler                  | Reign        | Status                            |
+| ------ | ---------------------- | ------------ | --------------------------------- |
+| 1      | Salih ibn Tarif        | 744–791      | The "prophet"                     |
+| 2      | Ilyas ibn Salih        | 791–842      | Kept secret                       |
+| 3      | Yunus ibn Ilyas        | 842–888      | The revealer                      |
+| 4      | Abu Ghufair            | 888–913      | The consolidator                  |
+| 5      | Abu al-Ansar Abdullah  | 917–961      | The diplomat                      |
+| **6**  | **Abu Mansur Isa**     | **961–983**  | **Died in battle**                |
+| **7**  | **[Anonymous rulers]** | **983–1058** | **Final period; prophecy failed** |
 
 The 7th King prophecy never materialized. The confederation fell to the Almoravids in 1058.
 
 ---
 
-*Last Updated: 2026-03-07*  
-*Canonical Status: Confirmed*  
-*Schema Version: 2.0*
+_Last Updated: 2026-03-07_  
+_Canonical Status: Confirmed_  
+_Schema Version: 2.0_
