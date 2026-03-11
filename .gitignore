@@ -4,4 +4,4 @@
 workspace/.smtcmp_vector_db.tar.gz
 Vault/.smtcmp_vector_db.tar.gz
 workspace/.openclaw
-.ids.txt
+.id.txt
