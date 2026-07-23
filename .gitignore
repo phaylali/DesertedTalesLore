@@ -1,10 +1,31 @@
+# Obsidian
 .obsidian
+
+# Smart environment
 .smart-env
 .smtcmp_json_db
+
+# Vector databases
 workspace/.smtcmp_vector_db.tar.gz
 Vault/.smtcmp_vector_db.tar.gz
+
+# OpenClaw
 workspace/.openclaw
+
+# ID files
 .id.txt
-workspace/Book-Extract/audiobook_corrected/دكالة_في_عهد_البرتغاليين_مصحح.mp3
-workspace/Book-Extract/audiobook/دكالة_في_عهد_البرتغاليين.mp33
-workspace/Book-Extract/audiobook/دكالة_في_عهد_البرتغاليين.mp3
+
+# Large generated files - audiobooks (MP3)
+*.mp3
+workspace/Book-Extract/audiobook/
+workspace/Book-Extract/audiobook_corrected/
+
+# Large source files (PDF)
+workspace/Book-Extract/dokkala.pdf
+
+# OCR temp / build artifacts
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
